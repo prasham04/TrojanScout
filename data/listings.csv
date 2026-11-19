@@ -1,0 +1,4 @@
+id,address,rent,beds,lat,lng,url,utilities_est
+1,SAMPLE - replace with real listing,1350,1,34.0275,-118.2830,https://example.com,90
+2,SAMPLE - replace with real listing,1150,1,34.0330,-118.2960,https://example.com,85
+3,SAMPLE - replace with real listing,1650,2,34.0180,-118.2780,https://example.com,110

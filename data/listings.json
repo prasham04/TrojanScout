@@ -1,0 +1,6948 @@
+{
+ "scrapedAt": "2026-11-15T01:27:27",
+ "sources": {
+  "stuho": "error: HTTPStatusError; kept 41 from the last successful scrape",
+  "tripalink": 42,
+  "mosaic": 31,
+  "featured": 5
+ },
+ "listings": [
+  {
+   "id": "stuho:66c4ec2fd8e81947bc26d534",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/3030-Shrine-Place-Los-Angeles-CA-90007-USA",
+   "name": "The Shrine Collection",
+   "address": "3030 Shrine Place, Los Angeles, CA 90007",
+   "lat": 34.02551,
+   "lng": -118.27994,
+   "rent": 1500,
+   "rentMax": 4400,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 1,
+   "bedsMax": 4,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "1B",
+     "roomType": "entire",
+     "beds": 1,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "2B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 5
+    },
+    {
+     "label": "3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "4B",
+     "roomType": "entire",
+     "beds": 4,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Immediate Move In- Spring 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theshrinecollection/shrinecollection.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theshrinecollection/18_1-mulswwbb12a7ce.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theshrinecollection/15-mulswvkx871d08.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theshrinecollection/16_1-mulswvs2f03ffa.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theshrinecollection/17_1-mulswvvic231d4.webp"
+   ],
+   "photoCredit": "",
+   "description": "1 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.46,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b627b28967b78d9b4b5",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/2833-Menlo-Ave-Los-Angeles-CA-90007-USA",
+   "name": " 2833 Menlo Ave",
+   "address": "2833 Menlo Ave, Los Angeles, CA 90007",
+   "lat": 34.0285696,
+   "lng": -118.2905976,
+   "rent": 9625,
+   "rentMax": 9625,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 4,
+   "bedsMax": 4,
+   "baths": 4.5,
+   "units": [
+    {
+     "label": "4B",
+     "roomType": "entire",
+     "beds": 4,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2833menloave/2833_main_picture.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2833menloave/_tud1249.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2833menloave/_tud1252.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2833menloave/_tud1251.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2833menloave/test-upload_m7edkaaat"
+   ],
+   "photoCredit": "",
+   "description": "1 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 180,
+   "distanceToCampusMi": 0.63,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b557b28967b78d9b43d",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/3416-Walton-Ave-Los-Angeles-CA-90007-USA",
+   "name": "3416 Walton Ave.",
+   "address": "3416 Walton Ave., Los Angeles, CA 90007",
+   "lat": 34.0249743,
+   "lng": -118.2946677,
+   "rent": 1800,
+   "rentMax": 2400,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 2,
+   "bedsMax": 4,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "2B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 2
+    },
+    {
+     "label": "4B",
+     "roomType": "entire",
+     "beds": 4,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Immediate Move In- Spring 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Rooms"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/3416waltonave/waltonmainpicture.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/3416waltonave/_tud1215.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/3416waltonave/_tud1218.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/3416waltonave/_tud6480.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/3416waltonave/_tud6477.webp"
+   ],
+   "photoCredit": "",
+   "description": "4 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 120,
+   "distanceToCampusMi": 0.61,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:65d3c346e68fbe733ba9aa99",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/2601-S-Hoover-Street-Los-Angeles-CA-90007-USA",
+   "name": "Hoover Square",
+   "address": "2601 S. Hoover Street, Los Angeles, CA 90007",
+   "lat": 34.03169,
+   "lng": -118.28402,
+   "rent": 1300,
+   "rentMax": 5250,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 0,
+   "bedsMax": 4,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "Studio",
+     "roomType": "entire",
+     "beds": 0,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "1B",
+     "roomType": "entire",
+     "beds": 1,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "2B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "4B",
+     "roomType": "entire",
+     "beds": 4,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/HooverSquare/test-upload_3akokl6y9",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/HooverSquare/test-upload_r8c0-vsyn",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/HooverSquare/test-upload_a6claij7b",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/HooverSquare/test-upload_bl5viokbcg",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/HooverSquare/test-upload_rqxceszz0"
+   ],
+   "photoCredit": "",
+   "description": "5 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.77,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b637b28967b78d9b4c4",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/956-1-2-W-23rd-St-Los-Angeles-CA-90007-USA",
+   "name": "956 W 23rd St. ",
+   "address": "956 1/2 W. 23rd St., Los Angeles, CA 90007",
+   "lat": 34.0338745,
+   "lng": -118.2816912,
+   "rent": 1395,
+   "rentMax": 3800,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 0,
+   "bedsMax": 4,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "Studio",
+     "roomType": "entire",
+     "beds": 0,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "4B",
+     "roomType": "entire",
+     "beds": 4,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Houses"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/956w23rdst/_tud1291.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/956w23rdst/_tud1287.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/956w23rdst/test-upload_wuedrevkt",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/956w23rdst/test-upload_zsab9ck7p",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/956w23rdst/test-upload_tdghop7a8"
+   ],
+   "photoCredit": "",
+   "description": "2 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.94,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b617b28967b78d9b4ab",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/1355-W-29th-St-Los-Angeles-CA-90007-USA",
+   "name": "1355 & 1357 W 29th St.",
+   "address": "1355 W. 29th St., Los Angeles, CA 90007",
+   "lat": 34.0285077,
+   "lng": -118.2907953,
+   "rent": 5340,
+   "rentMax": 5375,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 3,
+   "bedsMax": 3,
+   "baths": 3.0,
+   "units": [
+    {
+     "label": "3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 2
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Houses",
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1355w29thst/test-upload_lnwa00o8t",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1355w29thst/test-upload_uelwq1r1z",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1355w29thst/test-upload_vdi1srxgx",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1355w29thst/test-upload_szzn99gsy"
+   ],
+   "photoCredit": "",
+   "description": "2 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 150,
+   "distanceToCampusMi": 0.63,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b5d7b28967b78d9b483",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/2647-Ellendale-Pl-Los-Angeles-CA-90007-USA",
+   "name": "2647 Ellendale Pl.",
+   "address": "2647 Ellendale Pl., Los Angeles, CA 90007",
+   "lat": 34.0313621,
+   "lng": -118.2892603,
+   "rent": 12995,
+   "rentMax": 12995,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 8,
+   "bedsMax": 8,
+   "baths": 6.5,
+   "units": [
+    {
+     "label": "8B",
+     "roomType": "entire",
+     "beds": 8,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Houses"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2647ellendalepl/2649_ellendale_place-apt_3-2.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2647ellendalepl/2649_ellendale_place-apt_3-1.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2647ellendalepl/test-upload_fjpaqbnnr",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2647ellendalepl/test-upload_phht-hkgp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2647ellendalepl/test-upload__fymwaluoh"
+   ],
+   "photoCredit": "",
+   "description": "1 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 300,
+   "distanceToCampusMi": 0.78,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b5e7b28967b78d9b488",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/2649-Ellendale-Pl-Los-Angeles-CA-90007-USA",
+   "name": "2649 Ellendale Pl.",
+   "address": "2649 Ellendale Pl., Los Angeles, CA 90007",
+   "lat": 34.0313349,
+   "lng": -118.2894604,
+   "rent": 3900,
+   "rentMax": 4425,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 3,
+   "bedsMax": 3,
+   "baths": 3.0,
+   "units": [
+    {
+     "label": "3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 4
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2649ellendalepl/2649ellendalepl_4u_tmdj-x",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2649ellendalepl/2649ellendalepl_uputahu8h1",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2649ellendalepl/2649ellendalepl_d0_xjcdftt",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2649ellendalepl/2649ellendalepl_tkwsc8mip",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2649ellendalepl/2649ellendalepl_dgjmuf9pj"
+   ],
+   "photoCredit": "",
+   "description": "4 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 150,
+   "distanceToCampusMi": 0.78,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b677b28967b78d9b4e7",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/1119-W-29th-St-Los-Angeles-CA-90007-USA",
+   "name": "The Series - The Two Nine",
+   "address": "1119 W. 29th St., Los Angeles, CA 90007",
+   "lat": 34.0286801,
+   "lng": -118.2847787,
+   "rent": 2095,
+   "rentMax": 2450,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 1,
+   "bedsMax": 3,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "1B",
+     "roomType": "entire",
+     "beds": 1,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 2
+    },
+    {
+     "label": "2B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 12
+    },
+    {
+     "label": "3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriesthetwonine/test-upload_vcds-2a5r",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriesthetwonine/test-upload_lp9f0mwez",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriesthetwonine/test-upload_cnboo73ww",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriesthetwonine/test-upload_vm7p6mqeq",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriesthetwonine/test-upload_utlyajz1or"
+   ],
+   "photoCredit": "",
+   "description": "15 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.56,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b5a7b28967b78d9b460",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/1140-1166-W-36th-Pl-Los-Angeles-CA-90007-USA",
+   "name": "36 West",
+   "address": "1140-1166 W. 36th Pl., Los Angeles, CA 90007",
+   "lat": 34.0217722,
+   "lng": -118.2930489,
+   "rent": 1695,
+   "rentMax": 6050,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 0,
+   "bedsMax": 5,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "Studio",
+     "roomType": "entire",
+     "beds": 0,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 10
+    },
+    {
+     "label": "1B",
+     "roomType": "entire",
+     "beds": 1,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 2
+    },
+    {
+     "label": "2B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 9
+    },
+    {
+     "label": "3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 14
+    },
+    {
+     "label": "4B",
+     "roomType": "entire",
+     "beds": 4,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 6
+    },
+    {
+     "label": "5B",
+     "roomType": "entire",
+     "beds": 5,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 2
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/thevillage/_tud1212.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/thevillage/_tud1209.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/thevillage/_tud1210.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/thevillage/_tud1213.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/thevillage/_tud1214.webp"
+   ],
+   "photoCredit": "",
+   "description": "4 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.45,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b5a7b28967b78d9b465",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/1201-W-27th-St-Los-Angeles-CA-90007-USA",
+   "name": "Vista Magnolia",
+   "address": "1201 W. 27th St, Los Angeles, CA 90007",
+   "lat": 34.030482,
+   "lng": -118.286624,
+   "rent": 3900,
+   "rentMax": 4900,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 3,
+   "bedsMax": 3,
+   "baths": 3.0,
+   "units": [
+    {
+     "label": "3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 10
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/vistamagnolia/vistamagnolia_zwt3bgyhdr",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/vistamagnolia/vistamagnolia_eerng3nql",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/vistamagnolia/vistamagnolia_3dar4231x9",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/vistamagnolia/vistamagnolia_x9nez7ab1",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/vistamagnolia/vistamagnolia_fbqd579vuy"
+   ],
+   "photoCredit": "",
+   "description": "10 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 150,
+   "distanceToCampusMi": 0.69,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b5f7b28967b78d9b492",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/2639-Monmouth-Ave-Los-Angeles-CA-90007-USA",
+   "name": "2639 Monmouth Ave. ",
+   "address": "2639 Monmouth Ave., Los Angeles, CA 90007",
+   "lat": 34.0309698,
+   "lng": -118.285231,
+   "rent": 1495,
+   "rentMax": 1850,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 0,
+   "bedsMax": 0,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "Studio",
+     "roomType": "entire",
+     "beds": 0,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 12
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Rooms",
+    "Apartments"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2639monmouthave/2639mainpicture.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2639monmouthave/_tud1294.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2639monmouthave/test-upload_eq-id7zdv",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2639monmouthave/test-upload_wnsecdu9p",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2639monmouthave/test-upload_r4wjnlvlk"
+   ],
+   "photoCredit": "",
+   "description": "12 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.72,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b517b28967b78d9b41a",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/1293-W-36th-St-Los-Angeles-CA-90007-USA",
+   "name": "1293 W. 36th St.",
+   "address": "1293 W. 36th St., Los Angeles, CA 90007",
+   "lat": 34.0229836,
+   "lng": -118.2972685,
+   "rent": 6000,
+   "rentMax": 6000,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 5,
+   "bedsMax": 5,
+   "baths": 4.0,
+   "units": [
+    {
+     "label": "5B",
+     "roomType": "entire",
+     "beds": 5,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Houses"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1293129312w36thpl/lkysndqa.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1293129312w36thpl/rwwwwh9a.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1293129312w36thpl/rlcojq1q.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1293129312w36thpl/1zlnj1gg.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1293129312w36thpl/fof7f_zw.webp"
+   ],
+   "photoCredit": "",
+   "description": "1 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 210,
+   "distanceToCampusMi": 0.7,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b517b28967b78d9b415",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/1253-W-36th-Pl-Los-Angeles-CA-90007-USA",
+   "name": "1253 W. 36th Pl.",
+   "address": "1253 W. 36th Pl., Los Angeles, CA 90007",
+   "lat": 34.022184,
+   "lng": -118.29631,
+   "rent": 2995,
+   "rentMax": 3375,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 3,
+   "bedsMax": 3,
+   "baths": 2.0,
+   "units": [
+    {
+     "label": "3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 2
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Houses",
+    "Apartments"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1253125312w36thpl/yzmmiyoa.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1253125312w36thpl/9j3-gzhq.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1253125312w36thpl/j6whzyca.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1253125312w36thpl/ruqw--fa.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1253125312w36thpl/pr-wplaw.webp"
+   ],
+   "photoCredit": "",
+   "description": "2 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 150,
+   "distanceToCampusMi": 0.63,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b5e7b28967b78d9b48d",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/1223-1-2-W-23rd-St-Los-Angeles-CA-90007-USA",
+   "name": "1223 W 23rd St.",
+   "address": "1223 1/2 W. 23rd St., Los Angeles, CA 90007",
+   "lat": 34.0354035,
+   "lng": -118.2847057,
+   "rent": 1100,
+   "rentMax": 5000,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 0,
+   "bedsMax": 7,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "Studio",
+     "roomType": "entire",
+     "beds": 0,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "7B",
+     "roomType": "entire",
+     "beds": 7,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Houses",
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1223w23rdst/1223w23rdst_5mzbrk0zy",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1223w23rdst/_tud2030.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1223w23rdst/_tud2033.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1223w23rdst/_tud2024.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1223w23rdst/_tud2009.webp"
+   ],
+   "photoCredit": "",
+   "description": "2 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 1.02,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b507b28967b78d9b40b",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/1201-W-30th-St-Los-Angeles-CA-90007-USA",
+   "name": "1201 - 1205 W. 30th St.",
+   "address": "1201 W. 30th St., Los Angeles, CA 90007",
+   "lat": 34.0276259,
+   "lng": -118.2891769,
+   "rent": 4200,
+   "rentMax": 12800,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 3,
+   "bedsMax": 8,
+   "baths": 2.0,
+   "units": [
+    {
+     "label": "3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "4B",
+     "roomType": "entire",
+     "beds": 4,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "8B",
+     "roomType": "entire",
+     "beds": 8,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Houses"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/12011205w30thst/1201mainpicture.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/12011205w30thst/_tud1224.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/12011205w30thst/_tud1228.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/12011205w30thst/_tud1229.webp"
+   ],
+   "photoCredit": "",
+   "description": "3 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 150,
+   "distanceToCampusMi": 0.53,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:69a0836d2cbb7b6c79b487ba",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/1025-W-25th-St-Los-Angeles-CA-90007-USA",
+   "name": "1025 W 25th St",
+   "address": "1025 W 25th St, Los Angeles, CA 90007",
+   "lat": 34.03338,
+   "lng": -118.28344,
+   "rent": 899,
+   "rentMax": 2000,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 0,
+   "bedsMax": 2,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "Studio",
+     "roomType": "entire",
+     "beds": 0,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 11
+    },
+    {
+     "label": "1B",
+     "roomType": "entire",
+     "beds": 1,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 2
+    },
+    {
+     "label": "2B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1025W25th/_dsc5416.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1025W25th/_dsc5308-mm9piaq6894662.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1025W25th/_dsc5306-mm9pib6o322ae2.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1025W25th/_dsc5305-mm9pia4nce2957.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1025W25th/_dsc5309-mm9piafcd5170c.webp"
+   ],
+   "photoCredit": "",
+   "description": "14 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.89,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b587b28967b78d9b456",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/2658-Menlo-Ave-Los-Angeles-CA-90007-USA",
+   "name": "Providence ",
+   "address": "2658 Menlo Ave., Los Angeles, CA 90007",
+   "lat": 34.0311969,
+   "lng": -118.2898737,
+   "rent": 3000,
+   "rentMax": 4350,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 2,
+   "bedsMax": 3,
+   "baths": 2.0,
+   "units": [
+    {
+     "label": "2B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 14
+    },
+    {
+     "label": "3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 4
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/providence/providencemainpicture.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/providence/_tud1256.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/providence/test-upload_mqtbawcxz",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/providence/test-upload_xkq3gnylf",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/providence/test-upload_nqbykyecz"
+   ],
+   "photoCredit": "",
+   "description": "18 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 120,
+   "distanceToCampusMi": 0.78,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b567b28967b78d9b44c",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/2640-Menlo-Ave-Los-Angeles-CA-90007-USA",
+   "name": "2640 Menlo Ave. ",
+   "address": "2640 Menlo Ave., Los Angeles, CA 90007",
+   "lat": 34.0315359,
+   "lng": -118.2900311,
+   "rent": 10800,
+   "rentMax": 10800,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 9,
+   "bedsMax": 9,
+   "baths": 7.5,
+   "units": [
+    {
+     "label": "9B",
+     "roomType": "entire",
+     "beds": 9,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Houses"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2640menloave/2640mainpicture.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2640menloave/_tud1266.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2640menloave/_tud1264.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2640menloave/_tud1263.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2640menloave/test-upload_nl6sh6jiw"
+   ],
+   "photoCredit": "",
+   "description": "1 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 330,
+   "distanceToCampusMi": 0.8,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:6887cfcf25372bc256459c0d",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/2660-Magnolia-Ave-Los-Angeles-CA-90007-USA",
+   "name": "2660 Magnolia Ave",
+   "address": "2660 Magnolia Ave, Los Angeles, CA 90007",
+   "lat": 34.03118244678426,
+   "lng": -118.28626932883569,
+   "rent": 2100,
+   "rentMax": 2700,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 2,
+   "bedsMax": 3,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "2B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 4
+    },
+    {
+     "label": "3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Immediate Move In- Spring 2027",
+   "propertyTypes": [],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2660MagnoliaAve/94ab8460c0c562bf74b2a61ccd603ff9-uncropped_scaled_within_1536_1152.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2660MagnoliaAve/91b1bf11359472b4a37cc790e069a411-uncropped_scaled_within_1536_1152.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2660MagnoliaAve/a556c9bf0df1568965d90ff3b95da73e-uncropped_scaled_within_1536_1152.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2660MagnoliaAve/2720ed4964bdf77ed057bacf821a3e23-uncropped_scaled_within_1536_1152.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2660MagnoliaAve/2660.webp"
+   ],
+   "photoCredit": "",
+   "description": "5 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 120,
+   "distanceToCampusMi": 0.73,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b547b28967b78d9b438",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/1126-W-36th-Pl-Los-Angeles-CA-90007-USA",
+   "name": "1126-1128 W. 36th Pl.",
+   "address": "1126 W. 36th Pl., Los Angeles, CA 90007",
+   "lat": 34.0218517,
+   "lng": -118.2925106,
+   "rent": 2400,
+   "rentMax": 2400,
+   "priceUnit": "per unit",
+   "callForPricing": false,
+   "beds": 1,
+   "bedsMax": 4,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "1B",
+     "roomType": "entire",
+     "beds": 1,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "2B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 2
+    },
+    {
+     "label": "4B",
+     "roomType": "entire",
+     "beds": 4,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Immediate Move In- Spring 2027",
+   "propertyTypes": [
+    "Apartments"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/11261128w36thpl/1126_w_36th_st-ext-1_1.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/11261128w36thpl/1126_w_36th_st-ext-8.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/11261128w36thpl/_tud1716_print.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/11261128w36thpl/_tud1707_print.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/11261128w36thpl/_tud1697_print-mvpul3wr927b37.webp"
+   ],
+   "photoCredit": "",
+   "description": "2 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.42,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b6a7b28967b78d9b505",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/2634-Monmouth-Ave-Los-Angeles-CA-90007-USA",
+   "name": "Hoover Square- 2634 Monmouth Ave",
+   "address": "2634 Monmouth Ave., Los Angeles, CA 90007",
+   "lat": 34.0309894,
+   "lng": -118.2847514,
+   "rent": 4000,
+   "rentMax": 4000,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 8,
+   "bedsMax": 8,
+   "baths": 8.0,
+   "units": [
+    {
+     "label": "8B",
+     "roomType": "entire",
+     "beds": 8,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2634monmouthave/_tud1299.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2634monmouthave/2634monmouthmainpicture.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2634monmouthave/tud_7477-hdr.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2634monmouthave/tud_7474-hdr.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2634monmouthave/tud_7483-hdr.webp"
+   ],
+   "photoCredit": "",
+   "description": "1 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 300,
+   "distanceToCampusMi": 0.72,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b5f7b28967b78d9b497",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/2662-1-2-Orchard-Ave-Los-Angeles-CA-90007-USA",
+   "name": "2660 - 2662 Orchard Ave.",
+   "address": "2662 1/2 Orchard Ave., Los Angeles, CA 90007",
+   "lat": 34.0309311,
+   "lng": -118.2872907,
+   "rent": 1385,
+   "rentMax": 8075,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 0,
+   "bedsMax": 5,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "Studio",
+     "roomType": "entire",
+     "beds": 0,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "4B",
+     "roomType": "entire",
+     "beds": 4,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "5B",
+     "roomType": "entire",
+     "beds": 5,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Houses"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/26602662orchardave/test-upload_oi6ny_r_k9",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/26602662orchardave/test-upload_mjjgklcfj",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/26602662orchardave/test-upload_9cqdbxxyj",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/26602662orchardave/test-upload_5sdohmsgu",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/26602662orchardave/test-upload_g0bvofvcz"
+   ],
+   "photoCredit": "",
+   "description": "2 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.72,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b537b28967b78d9b429",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/1283-W-36th-St-Los-Angeles-CA-90007-USA",
+   "name": "1283 W. 36th St.",
+   "address": "1283 W. 36th St., Los Angeles, CA 90007",
+   "lat": 34.0230509,
+   "lng": -118.2969916,
+   "rent": 1795,
+   "rentMax": 5700,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 1,
+   "bedsMax": 5,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "1B",
+     "roomType": "entire",
+     "beds": 1,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "5B",
+     "roomType": "entire",
+     "beds": 5,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Houses"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1283128312w36thst/1283128312w36thst_3exky1nbq",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1283128312w36thst/1283128312w36thst_lw5vwvltl",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1283128312w36thst/1283_w_36th_st_5.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1283128312w36thst/1283_w_36th_st_3.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1283128312w36thst/1283_w_36th_st_2.webp"
+   ],
+   "photoCredit": "",
+   "description": "2 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.69,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b517b28967b78d9b410",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/3010-Shrine-Pl-Los-Angeles-CA-90007-USA",
+   "name": "The Series - Cielo",
+   "address": "3010 Shrine Pl., Los Angeles, CA 90007",
+   "lat": 34.0253184,
+   "lng": -118.2797272,
+   "rent": 5600,
+   "rentMax": 6950,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 4,
+   "bedsMax": 4,
+   "baths": 3.0,
+   "units": [
+    {
+     "label": "4B",
+     "roomType": "entire",
+     "beds": 4,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 2
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/cielo/test-upload_cotozjuncc",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/cielo/test-upload_kguegfpfp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/cielo/test-upload_5pi8s2r9z",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/cielo/test-upload_49-j0oyad",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/cielo/test-upload_svoqiop56"
+   ],
+   "photoCredit": "",
+   "description": "2 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 180,
+   "distanceToCampusMi": 0.46,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b527b28967b78d9b41f",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/1280-W-Jefferson-Blvd-Los-Angeles-CA-90007-USA",
+   "name": "1280 W. Jefferson Blvd.",
+   "address": "1280 W. Jefferson Blvd., Los Angeles, CA 90007",
+   "lat": 34.02522769999999,
+   "lng": -118.2939984,
+   "rent": 1725,
+   "rentMax": 2350,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 1,
+   "bedsMax": 2,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "1B",
+     "roomType": "entire",
+     "beds": 1,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 4
+    },
+    {
+     "label": "2B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 4
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/12801284wjeffersonblvd/mainpicture.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/12801284wjeffersonblvd/_tud1220.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/12801284wjeffersonblvd/_tud1219.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/12801284wjeffersonblvd/1280_w_jefferson_blvd_1.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/12801284wjeffersonblvd/1280_w_jefferson_blvd_2.webp"
+   ],
+   "photoCredit": "",
+   "description": "8 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.59,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b697b28967b78d9b500",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/1118-W-25th-St-Los-Angeles-CA-90007-USA",
+   "name": "1118 W. 25th St.",
+   "address": "1118 W. 25th St., Los Angeles, CA 90007",
+   "lat": 34.0333616,
+   "lng": -118.2846719,
+   "rent": 3150,
+   "rentMax": 3150,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 3,
+   "bedsMax": 3,
+   "baths": 2.0,
+   "units": [
+    {
+     "label": "3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 2
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1118w25thst/1118w25thst_w4zgkrqgdh",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1118w25thst/1118w25thst_qce9anura",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1118w25thst/1118w25thst_igkg5ergw",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1118w25thst/1118w25thst_osl1dbb-l",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1118w25thst/1118w25thst_tfuyp8kgw"
+   ],
+   "photoCredit": "",
+   "description": "2 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 150,
+   "distanceToCampusMi": 0.88,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b697b28967b78d9b4fb",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/949-W-Adams-Blvd-Los-Angeles-CA-90007-USA",
+   "name": "The Series - Parq On Portland",
+   "address": "949 W. Adams Blvd, Los Angeles, CA 90007",
+   "lat": 34.0316052,
+   "lng": -118.2826047,
+   "rent": 1400,
+   "rentMax": 3350,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 0,
+   "bedsMax": 2,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "Studio",
+     "roomType": "entire",
+     "beds": 0,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "1B",
+     "roomType": "entire",
+     "beds": 1,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 26
+    },
+    {
+     "label": "2B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 17
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriesparqonportland/test-upload_t38qtcl5r1",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriesparqonportland/test-upload_zclamkp7-",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriesparqonportland/test-upload_kwh07veh8k",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriesparqonportland/test-upload_73b7c7qvqv",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriesparqonportland/test-upload_wqjpbdkbm"
+   ],
+   "photoCredit": "",
+   "description": "4 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.78,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b5c7b28967b78d9b474",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/1222-W-23rd-St-Los-Angeles-CA-90007-USA",
+   "name": "1222 W. 23rd St.",
+   "address": "1222 W. 23rd St., Los Angeles, CA 90007",
+   "lat": 34.0350148,
+   "lng": -118.2846602,
+   "rent": 7250,
+   "rentMax": 7250,
+   "priceUnit": "per unit",
+   "callForPricing": false,
+   "beds": 7,
+   "bedsMax": 7,
+   "baths": 3.5,
+   "units": [
+    {
+     "label": "7B",
+     "roomType": "entire",
+     "beds": 7,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Rooms",
+    "Apartments"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1222w23rdst/1222mainpicture.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1222w23rdst/_tud1285.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1222w23rdst/_tud1277.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1222w23rdst/test-upload_qd6xtkytkw",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1222w23rdst/test-upload_bmn1uh1jo"
+   ],
+   "photoCredit": "",
+   "description": "1 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 270,
+   "distanceToCampusMi": 1.0,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b587b28967b78d9b45b",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/841-W-23rd-St-Los-Angeles-CA-90007-USA",
+   "name": "841 W. 23rd St.",
+   "address": "841 W. 23rd St., Los Angeles, CA 90007",
+   "lat": 34.0330682,
+   "lng": -118.2787489,
+   "rent": 1250,
+   "rentMax": 1500,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 0,
+   "bedsMax": 1,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "Studio",
+     "roomType": "entire",
+     "beds": 0,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 11
+    },
+    {
+     "label": "1B",
+     "roomType": "entire",
+     "beds": 1,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 12
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/841w23rdst/841w23rdst_orj4n5tn4",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/841w23rdst/test-upload_dpdf5blig",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/841w23rdst/test-upload_p-qqo5rdd",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/841w23rdst/test-upload_d3y1lxapw",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/841w23rdst/test-upload_wo92ksiaj"
+   ],
+   "photoCredit": "",
+   "description": "23 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.94,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b577b28967b78d9b451",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/2646-Menlo-Ave-Los-Angeles-CA-90007-USA",
+   "name": "2646 Menlo Ave. ",
+   "address": "2646 Menlo Ave., Los Angeles, CA 90007",
+   "lat": 34.0313195,
+   "lng": -118.2900038,
+   "rent": 12000,
+   "rentMax": 12000,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 8,
+   "bedsMax": 8,
+   "baths": 6.0,
+   "units": [
+    {
+     "label": "8B",
+     "roomType": "entire",
+     "beds": 8,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Houses"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2646menloave/2646mainpicture.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2646menloave/_tud1259.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2646menloave/_tud1260.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2646menloave/_tud1262.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2646menloave/test-upload_wb84pm7gr"
+   ],
+   "photoCredit": "",
+   "description": "1 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 300,
+   "distanceToCampusMi": 0.79,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b567b28967b78d9b447",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/2633-Ellendale-Pl-Los-Angeles-CA-90007-USA",
+   "name": "2633 Ellendale Pl. ",
+   "address": "2633 Ellendale Pl., Los Angeles, CA 90007",
+   "lat": 34.031739,
+   "lng": -118.2892845,
+   "rent": 1500,
+   "rentMax": 1800,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 0,
+   "bedsMax": 0,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "Studio",
+     "roomType": "entire",
+     "beds": 0,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 18
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2633ellendalepl/2633ellendalepl__5affd1hjm",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2633ellendalepl/2633ellendalepl_wg_amgrj7",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2633ellendalepl/2633ellendalepl_ggur7bphp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2633ellendalepl/2633ellendalepl_j3zpbkaga_",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2633ellendalepl/2633ellendalepl_mp1xqtfvx"
+   ],
+   "photoCredit": "",
+   "description": "18 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.8,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b5b7b28967b78d9b46f",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/2356-Portland-St-Los-Angeles-CA-90007-USA",
+   "name": "2356 Portland St.",
+   "address": "2356 Portland St., Los Angeles, CA 90007",
+   "lat": 34.0322849,
+   "lng": -118.2816455,
+   "rent": 1995,
+   "rentMax": 3200,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 0,
+   "bedsMax": 4,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "Studio",
+     "roomType": "entire",
+     "beds": 0,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "2B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 3
+    },
+    {
+     "label": "3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "4B",
+     "roomType": "entire",
+     "beds": 4,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2356portlandst/2356portlandst_fd166ldai",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2356portlandst/2356portlandst_dxxa7h9-w6",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2356portlandst/2356portlandst_dsbfzuoyu",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2356portlandst/2356portlandst_756avgzdhy",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2356portlandst/2356portlandst_lgp2jvp9e"
+   ],
+   "photoCredit": "",
+   "description": "2 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.84,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b627b28967b78d9b4ba",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/2595-Hoover-St-Los-Angeles-CA-90007-USA",
+   "name": "Element",
+   "address": "2595 Hoover St., Los Angeles, CA 90007",
+   "lat": 34.032052,
+   "lng": -118.2843636,
+   "rent": 725,
+   "rentMax": 725,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 1,
+   "bedsMax": 3,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "1B",
+     "roomType": "entire",
+     "beds": 1,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 5
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Immediate Move In- Spring 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/element/dji_0144-1.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/element/element_003.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/element/element_007.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/element/elememt.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/element/element_013.webp"
+   ],
+   "photoCredit": "",
+   "description": "2 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.79,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b5d7b28967b78d9b47e",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/1021-W-24th-St-Los-Angeles-CA-90007-USA",
+   "name": "1021 W. 24th St.",
+   "address": "1021 W. 24th St., Los Angeles, CA 90007",
+   "lat": 34.03392669999999,
+   "lng": -118.2826047,
+   "rent": 5400,
+   "rentMax": 5400,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 6,
+   "bedsMax": 6,
+   "baths": 3.0,
+   "units": [
+    {
+     "label": "6B",
+     "roomType": "entire",
+     "beds": 6,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Houses"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1021w24thst/_tud1351-1.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1021w24thst/_tud1352-1.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1021w24thst/_tud1354-1.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1021w24thst/test-upload_xwunnrcnc",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/1021w24thst/test-upload_arfoexs4i"
+   ],
+   "photoCredit": "",
+   "description": "1 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 240,
+   "distanceToCampusMi": 0.93,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b637b28967b78d9b4bf",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/2335-Portland-St-Los-Angeles-CA-90007-USA",
+   "name": "2335 Portland St.",
+   "address": "2335 Portland St., Los Angeles, CA 90007",
+   "lat": 34.033057,
+   "lng": -118.2819196,
+   "rent": 7500,
+   "rentMax": 7500,
+   "priceUnit": "per unit",
+   "callForPricing": false,
+   "beds": 0,
+   "bedsMax": 10,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "Studio",
+     "roomType": "entire",
+     "beds": 0,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "10B",
+     "roomType": "entire",
+     "beds": 10,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Immediate Move In- Spring 2027",
+   "propertyTypes": [
+    "Apartments"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2335portlandst/_tud3863_print.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2335portlandst/_tud3866_print.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2335portlandst/_tud3869_print.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2335portlandst/_tud3872_print.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2335portlandst/_tud3878_print.webp"
+   ],
+   "photoCredit": "",
+   "description": "3 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.88,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b5c7b28967b78d9b479",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/2318-Portland-St-Los-Angeles-CA-90007-USA",
+   "name": "2318 Portland St. ",
+   "address": "2318 Portland St., Los Angeles, CA 90007",
+   "lat": 34.0332212,
+   "lng": -118.2810642,
+   "rent": 1595,
+   "rentMax": 6000,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 1,
+   "bedsMax": 6,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "1B",
+     "roomType": "entire",
+     "beds": 1,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "6B",
+     "roomType": "entire",
+     "beds": 6,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Houses",
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2318portlandst/71wrdkig.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2318portlandst/jaj4nkeg.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2318portlandst/rjuwbalg.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2318portlandst/-v-ynsag.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/2318portlandst/vxsqzp1a.webp"
+   ],
+   "photoCredit": "",
+   "description": "2 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.91,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b677b28967b78d9b4ec",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/738-42-W-27th-St-Los-Angeles-CA-90007-USA",
+   "name": "The Series - The Moon",
+   "address": "738-42 W. 27th St., Los Angeles, CA 90007",
+   "lat": 34.0284161,
+   "lng": -118.2803996,
+   "rent": 2000,
+   "rentMax": 3850,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 1,
+   "bedsMax": 3,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "1B",
+     "roomType": "entire",
+     "beds": 1,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 17
+    },
+    {
+     "label": "2B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 13
+    },
+    {
+     "label": "3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 4
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriesthemoon/test-upload_fr2sbkl3h6",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriesthemoon/test-upload_m_nkddtxfe",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriesthemoon/theseriesthemoon_2yqqdaekb",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriesthemoon/theseriesthemoon_nycbid1ap0",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriesthemoon/theseriesthemoon_9hl9ohok2"
+   ],
+   "photoCredit": "",
+   "description": "34 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.61,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b687b28967b78d9b4f6",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/3006-Royal-St-Los-Angeles-CA-90007-USA",
+   "name": "The Series - The Royal",
+   "address": "3006 Royal St., Los Angeles, CA 90007",
+   "lat": 34.0259839,
+   "lng": -118.2806733,
+   "rent": 2095,
+   "rentMax": 2545,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 1,
+   "bedsMax": 1,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "1B",
+     "roomType": "entire",
+     "beds": 1,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 36
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriestheroyal/test-upload_gyoqu_yhm",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriestheroyal/test-upload_agqiejfdv7",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriestheroyal/test-upload_pkrlaz_wcc",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriestheroyal/test-upload_r4ndqkyoi",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriestheroyal/test-upload_t4o5koz0n"
+   ],
+   "photoCredit": "",
+   "description": "36 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.46,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b687b28967b78d9b4f1",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/2620-Severance-St-Los-Angeles-CA-90007-USA",
+   "name": "The Series - The Dime",
+   "address": "2620 Severance St., Los Angeles, CA 90007",
+   "lat": 34.0296025,
+   "lng": -118.2810061,
+   "rent": 2050,
+   "rentMax": 2950,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 1,
+   "bedsMax": 2,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "1B",
+     "roomType": "entire",
+     "beds": 1,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 8
+    },
+    {
+     "label": "2B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 8
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriesthedime/test-upload__dppugwaf",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriesthedime/test-upload_vpjzracz3",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriesthedime/test-upload_2n-l9n9p7",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriesthedime/test-upload_utrkl8aoz",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/theseriesthedime/test-upload_7dfil-pwf"
+   ],
+   "photoCredit": "",
+   "description": "16 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.67,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "stuho:64ed2b607b28967b78d9b49c",
+   "source": "Stuho",
+   "url": "https://stuho.com/for-rent-building/1200-W-30th-St-Los-Angeles-CA-90007-USA",
+   "name": "Fourpack",
+   "address": "1200 W. 30th St., Los Angeles, CA 90007",
+   "lat": 34.0271876,
+   "lng": -118.2891589,
+   "rent": 3350,
+   "rentMax": 9250,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 2,
+   "bedsMax": 6,
+   "baths": 2.0,
+   "units": [
+    {
+     "label": "2B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 6
+    },
+    {
+     "label": "4B",
+     "roomType": "entire",
+     "beds": 4,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 5
+    },
+    {
+     "label": "6B",
+     "roomType": "entire",
+     "beds": 6,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/fourpack/_tud5797.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/fourpack/_tud5800.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/fourpack/_tud5806.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/fourpack/_tud5803.webp",
+    "https://cdn.it49.com/an1ince54c3/rentelf/clients/stuho280823/Buildings/fourpack/_tud5818.webp"
+   ],
+   "photoCredit": "",
+   "description": "13 units managed by Stuho",
+   "sampleData": false,
+   "utilitiesEst": 120,
+   "distanceToCampusMi": 0.5,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-14T22:56:53"
+  },
+  {
+   "id": "tripalink:10020002",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10020002",
+   "name": "1142 W 35th St",
+   "address": "1142 W 35th St, Los Angeles, CA 90007",
+   "lat": 34.0239283,
+   "lng": -118.292851,
+   "rent": 1058,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 7,
+   "bedsMax": 7,
+   "baths": 7.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 7B7B",
+     "roomType": "private_room",
+     "beds": 7,
+     "baths": 7.0,
+     "privateBath": true,
+     "rent": 1058,
+     "count": 5
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "DPS",
+    "Free Lyft",
+    "Furnished",
+    "Private Bathroom",
+    "Bed",
+    "AC"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202307230039004373.JPG",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202307230039008429.JPG",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202307230039005878.JPG",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202307230039003156.JPG",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202307230039009841.JPG"
+   ],
+   "photoCredit": "",
+   "description": "5 mins walk (0.2 mi) to USC W.Gate",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.48,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10000202",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10000202",
+   "name": "1431 W 37th St",
+   "address": "1431 W 37th St, Los Angeles, CA 90018",
+   "lat": 34.021151,
+   "lng": -118.301242,
+   "rent": 1068,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 15,
+   "bedsMax": 15,
+   "baths": 15.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 15B15B",
+     "roomType": "private_room",
+     "beds": 15,
+     "baths": 15.0,
+     "privateBath": true,
+     "rent": 1068,
+     "count": 12
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "Walk To Campus",
+    "Smart Lock",
+    "Parking",
+    "Furnished",
+    "TV",
+    "AC"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/5c51a31161c7a053.jpeg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202304171034132628.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202304171034135665.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202304171027476096.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/180a58c9f9c7273d.jpeg"
+   ],
+   "photoCredit": "",
+   "description": "14 mins walk (0.6 mi) to USC W.Gate. Newly Renovated Co-living Units",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.91,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:50000089",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/50000089",
+   "name": "1329 W 36th St",
+   "address": "1329 W 36th St, Los Angeles, CA 90007",
+   "lat": 34.0230285,
+   "lng": -118.2983944,
+   "rent": 1270,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 4,
+   "bedsMax": 9,
+   "baths": 4.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 4B4B",
+     "roomType": "private_room",
+     "beds": 4,
+     "baths": 4.0,
+     "privateBath": true,
+     "rent": 1270,
+     "count": 37
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "DPS",
+    "Walk To Campus",
+    "Free Lyft",
+    "Private Bathroom",
+    "Yard",
+    "Public Transportation"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202501081831056492.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/8252_20250728223900.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202501081831053296.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202501081831054474.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202501081831056064.jpg"
+   ],
+   "photoCredit": "",
+   "description": "10 mins walk (0.5 mi) to USC W.Gate. Brand New Property ",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.76,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:50000084",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/50000084",
+   "name": "1360 W 35th St",
+   "address": "1360 W 35th St, Los Angeles, CA 90007",
+   "lat": 34.02446740000001,
+   "lng": -118.2992492,
+   "rent": 1098,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 15,
+   "bedsMax": 22,
+   "baths": 14.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 15B14B",
+     "roomType": "private_room",
+     "beds": 15,
+     "baths": 14.0,
+     "privateBath": true,
+     "rent": 1098,
+     "count": 51
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "DPS",
+    "Walk To Campus",
+    "Free Lyft",
+    "Parking",
+    "Furnished",
+    "Private Bathroom"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202410291712372087.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202410291712375844.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202410291712379590.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202410291712371931.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20241029171237882.jpg"
+   ],
+   "photoCredit": "",
+   "description": "14 mins walk (0.6 mi) to USC W.Gate. Brand New Property ",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.84,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10000274",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10000274",
+   "name": "1476 W 35th St",
+   "address": "1476 W 35th St, Los Angeles, CA 90018",
+   "lat": 34.0243985,
+   "lng": -118.3025869,
+   "rent": 958,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 13,
+   "bedsMax": 21,
+   "baths": 13.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 13B13B",
+     "roomType": "private_room",
+     "beds": 13,
+     "baths": 13.0,
+     "privateBath": true,
+     "rent": 958,
+     "count": 38
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "Smart Lock",
+    "Parking",
+    "Furnished",
+    "Private Bathroom",
+    "Package Locker",
+    "TV"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/4daaf8c00eac88e5.jpeg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/393b6959b0f0b992.jpeg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/06ea2e1eb61a2f1d.jpeg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/71ce42623522ca26.jpeg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202304110845512912.JPG"
+   ],
+   "photoCredit": "",
+   "description": "18 mins walk (0.8 mi) to USC W.Gate. Modern furnishing unit",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 1.02,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10000218",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10000218",
+   "name": "1729 W Adams Blvd",
+   "address": "1729 W Adams Blvd, Los Angeles, CA 90018",
+   "lat": 34.0332718,
+   "lng": -118.3007809,
+   "rent": 798,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 4,
+   "bedsMax": 6,
+   "baths": 4.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 4B4B",
+     "roomType": "private_room",
+     "beds": 4,
+     "baths": 4.0,
+     "privateBath": true,
+     "rent": 798,
+     "count": 42
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "Walk To Campus",
+    "Smart Lock",
+    "Parking",
+    "Furnished",
+    "Private Bathroom",
+    "TV"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/b4ea9b29dc2dbe2b.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202405231753301811.JPG",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202405231753309631.JPG",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202405231753309445.JPG",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/347_20260626003123.png"
+   ],
+   "photoCredit": "",
+   "description": "30 mins walk (1.3 mi) to USC W.Gate. Modern furnishing unit",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 1.24,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:50000040",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/50000040",
+   "name": "1587 West 35th Street",
+   "address": "1587 W 35th St, Los Angeles, CA 90018",
+   "lat": 34.0248396,
+   "lng": -118.3057148,
+   "rent": 1048,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 14,
+   "bedsMax": 16,
+   "baths": 14.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 14B14B",
+     "roomType": "private_room",
+     "beds": 14,
+     "baths": 14.0,
+     "privateBath": true,
+     "rent": 1048,
+     "count": 27
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "Smart Lock",
+    "Parking",
+    "Furnished",
+    "Private Bathroom",
+    "Bed",
+    "TV"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202310121732505363.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202310121732509041.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202310121732504477.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202310121732501268.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202310121732506644.jpg"
+   ],
+   "photoCredit": "",
+   "description": "22 mins walk (1.0 mi) to USC W.Gate. Fully Furnished",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 1.2,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10000213",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10000213",
+   "name": "1607 W 35th Pl",
+   "address": "1607 W 35th Pl, Los Angeles, CA 90018",
+   "lat": 34.023864,
+   "lng": -118.306362,
+   "rent": 875,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 15,
+   "bedsMax": 15,
+   "baths": 15.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 15B15B",
+     "roomType": "private_room",
+     "beds": 15,
+     "baths": 15.0,
+     "privateBath": true,
+     "rent": 875,
+     "count": 30
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "Smart Lock",
+    "Parking",
+    "Furnished",
+    "Private Bathroom",
+    "Bed",
+    "AC"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/f2482f8856013fc4.pic_hd (1).jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/2078563894ef2c26.pic_hd (1).jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/8e44a2b8e66713ec.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/4ec8e8f8f8b92adf.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/098b99dad0c87494.pic_hd.jpg"
+   ],
+   "photoCredit": "",
+   "description": "22 mins walk (1.0 mi) to USC W.Gate. Fully Furnished",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 1.22,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10000219",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10000219",
+   "name": "1815 W Adams Blvd",
+   "address": "1815 W Adams Blvd, Los Angeles, CA 90018",
+   "lat": 34.033604374115,
+   "lng": -118.30358225547,
+   "rent": 875,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 7,
+   "bedsMax": 11,
+   "baths": 7.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 7B7B",
+     "roomType": "private_room",
+     "beds": 7,
+     "baths": 7.0,
+     "privateBath": true,
+     "rent": 875,
+     "count": 30
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "Walk To Campus",
+    "Smart Lock",
+    "Parking",
+    "Furnished",
+    "Private Bathroom",
+    "TV"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/1c51e83fc467a651.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/ee741784fe5e3dea.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/b8a4a6b8f8ebd13d.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/9a2751802e429ed1.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/7823_20260626005330.png"
+   ],
+   "photoCredit": "",
+   "description": "34 mins walk (1.5 mi) to USC W.Gate. Brand new",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 1.38,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10015261",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10015261",
+   "name": "Polaris",
+   "address": "1446 - 1448 W 37th St, Los Angeles, CA 90018",
+   "lat": 34.020869351931296,
+   "lng": -118.30161185838377,
+   "rent": 958,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 14,
+   "bedsMax": 18,
+   "baths": 14.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 14B14B",
+     "roomType": "private_room",
+     "beds": 14,
+     "baths": 14.0,
+     "privateBath": true,
+     "rent": 958,
+     "count": 29
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "Smart Lock",
+    "Parking",
+    "Furnished",
+    "Private Bathroom",
+    "TV",
+    "Locker"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20221104020210Tripalink_1446%20W%2037th-BACK3.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20221104020210Tripalink_1446%20W%2037th-BACK4.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20221104020210Tripalink_1446%20W%2037th-BACK2.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20221104020210Tripalink_1446%20W%2037th-BACK1.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20221104020210Tripalink_1446%20W%2037th-BACK8.jpg"
+   ],
+   "photoCredit": "",
+   "description": "15 mins walk (0.6 mi) to USC W.Gate. Modern furnishing unit",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.93,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10000221",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10000221",
+   "name": "3100 S Normandie Ave",
+   "address": "3100 S Normandie Ave, Los Angeles, CA 90007",
+   "lat": 34.0263886,
+   "lng": -118.2998884,
+   "rent": 1198,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 3,
+   "bedsMax": 9,
+   "baths": 3.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 3B3B",
+     "roomType": "private_room",
+     "beds": 3,
+     "baths": 3.0,
+     "privateBath": true,
+     "rent": 1198,
+     "count": 36
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "DPS",
+    "Walk To Campus",
+    "Smart Lock",
+    "Free Lyft",
+    "Parking",
+    "Furnished",
+    "Private Bathroom"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/4186_20260625235739.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/9405_20260625235752.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/4687_20250707234646.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/4669_20260626000639.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/9791_20260626000627.png"
+   ],
+   "photoCredit": "",
+   "description": "18 mins walk (0.8 mi) to USC W.Gate. Fully Furnished",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.92,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10000210",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10000210",
+   "name": "1545 W 36th Pl",
+   "address": "1545 W 36th Pl, Los Angeles, CA 90018",
+   "lat": 34.022208,
+   "lng": -118.30454,
+   "rent": 875,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 3,
+   "bedsMax": 18,
+   "baths": 3.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 3B3B",
+     "roomType": "private_room",
+     "beds": 3,
+     "baths": 3.0,
+     "privateBath": true,
+     "rent": 875,
+     "count": 27
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "Smart Lock",
+    "Parking",
+    "Furnished",
+    "Private Bathroom",
+    "Bed",
+    "Garden"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/01d2658fdd9b1612.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/2cc01a55cbe5f181.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/cac2610440d212a6.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/ecc5730c90481deb.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/161152e5aa6546e6.jpg"
+   ],
+   "photoCredit": "",
+   "description": "18 mins walk (0.8 mi) to USC W.Gate. Modern furnishing unit",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 1.1,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10000205",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10000205",
+   "name": "1455 W 36th St",
+   "address": "1455 W 36th St, Los Angeles, CA 90018",
+   "lat": 34.0229533,
+   "lng": -118.3018891,
+   "rent": 1118,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 14,
+   "bedsMax": 14,
+   "baths": 14.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 14B14B",
+     "roomType": "private_room",
+     "beds": 14,
+     "baths": 14.0,
+     "privateBath": true,
+     "rent": 1118,
+     "count": 13
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "Smart Lock",
+    "Parking",
+    "Furnished",
+    "Private Bathroom",
+    "TV",
+    "Garbage Disposal"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20230304001446978.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202303040014469029.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202303040014467952.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202303040014467484.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202303040014466369.png"
+   ],
+   "photoCredit": "",
+   "description": "15 mins walk (0.7 mi) to USC W.Gate. Modern furnishing unit",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.96,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:50000038",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/50000038",
+   "name": "2909 Kenwood Ave",
+   "address": "2909 Kenwood Ave, Los Angeles, CA 90007",
+   "lat": 34.0287704,
+   "lng": -118.2994122,
+   "rent": 1248,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 3,
+   "bedsMax": 7,
+   "baths": 3.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 3B3B",
+     "roomType": "private_room",
+     "beds": 3,
+     "baths": 3.0,
+     "privateBath": true,
+     "rent": 1248,
+     "count": 28
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "DPS",
+    "Walk To Campus",
+    "Smart Lock",
+    "Free Lyft",
+    "Parking",
+    "Furnished",
+    "Private Bathroom"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202407101759015346.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202407101759014345.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202407101759015962.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202407101759011476.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202404270243165974.jpg"
+   ],
+   "photoCredit": "",
+   "description": "20 mins walk (0.9 mi) to USC W.Gate. Brand New Property ",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.98,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:50000037",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/50000037",
+   "name": "1338 West 35th Place",
+   "address": "1338 W 35th Pl, Los Angeles, CA 90007",
+   "lat": 34.0234882,
+   "lng": -118.2985866,
+   "rent": 1278,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 3,
+   "bedsMax": 9,
+   "baths": 3.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 3B3B",
+     "roomType": "private_room",
+     "beds": 3,
+     "baths": 3.0,
+     "privateBath": true,
+     "rent": 1278,
+     "count": 38
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "DPS",
+    "Walk To Campus",
+    "Smart Lock",
+    "Free Lyft",
+    "Parking",
+    "Furnished",
+    "Private Bathroom"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202405222225352194.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202405222233059921.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202405222225352825.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202405222225352975.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202405222233054756.jpg"
+   ],
+   "photoCredit": "",
+   "description": "12 mins walk (0.5 mi) to USC W.Gate. Brand New Property ",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.78,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10019979",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10019979",
+   "name": "1654 W 35th St",
+   "address": "1654 W 35th St, Los Angeles, CA 90018",
+   "lat": 34.0243408,
+   "lng": -118.3076795,
+   "rent": 998,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 14,
+   "bedsMax": 16,
+   "baths": 14.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 14B14B",
+     "roomType": "private_room",
+     "beds": 14,
+     "baths": 14.0,
+     "privateBath": true,
+     "rent": 998,
+     "count": 26
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "Smart Lock",
+    "Parking",
+    "Furnished",
+    "Private Bathroom",
+    "TV",
+    "Public Area Wifi"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202309081803401148.jpeg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202309071952051587.JPG",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20230908181434854.jpeg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202309081803409454.jpeg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202309072017194497.JPG"
+   ],
+   "photoCredit": "",
+   "description": "25 mins walk (1.1 mi) to USC W.Gate. Modern furnishing unit",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 1.3,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10000207",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10000207",
+   "name": "The Pegasus",
+   "address": "1471 W 37th St, Los Angeles, CA 90018",
+   "lat": 34.021036,
+   "lng": -118.302489,
+   "rent": 998,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 12,
+   "bedsMax": 13,
+   "baths": 12.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 12B12B",
+     "roomType": "private_room",
+     "beds": 12,
+     "baths": 12.0,
+     "privateBath": true,
+     "rent": 998,
+     "count": 24
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "Smart Lock",
+    "Parking",
+    "Private Bathroom",
+    "Bed",
+    "AC",
+    "TV"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202410111725449047.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202410181851353110.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20241018185135593.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202410181851354194.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202410181851355997.jpg"
+   ],
+   "photoCredit": "",
+   "description": "16 mins walk (0.7 mi) to USC W.Gate",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.98,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:50000082",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/50000082",
+   "name": "1219 W 36th St",
+   "address": "1219/1221/1223 W 36th St, Los Angeles, CA 90007",
+   "lat": 34.0232783,
+   "lng": -118.2951224,
+   "rent": 1198,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 4,
+   "bedsMax": 6,
+   "baths": 2.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 4B2B",
+     "roomType": "private_room",
+     "beds": 4,
+     "baths": 2.0,
+     "privateBath": true,
+     "rent": 1198,
+     "count": 40
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "DPS",
+    "Walk To Campus",
+    "Free Lyft",
+    "Parking",
+    "Furnished",
+    "Private Bathroom"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202504092247392907.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202501162354375710.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202501162354378657.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202501162354372785.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/8911_20260303200118.png"
+   ],
+   "photoCredit": "",
+   "description": "6 mins walk (0.3 mi) to USC W.Gate. Brand New Property ",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.59,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10000216",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10000216",
+   "name": "1651 W 37th Pl",
+   "address": "1651 W 37th Pl, Los Angeles, CA 90018",
+   "lat": 34.020215,
+   "lng": -118.3077472,
+   "rent": 875,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 15,
+   "bedsMax": 16,
+   "baths": 15.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 15B15B",
+     "roomType": "private_room",
+     "beds": 15,
+     "baths": 15.0,
+     "privateBath": true,
+     "rent": 875,
+     "count": 24
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "Smart Lock",
+    "Parking",
+    "Furnished",
+    "Private Bathroom",
+    "TV",
+    "In-Unit W/D"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/b75db54caa7364d0.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/8ffe5a8498220846.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/178187ee92573d1e.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/912e94c57d8c3e5b.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/6cc4fabb639695bc.jpg"
+   ],
+   "photoCredit": "",
+   "description": "24 mins walk (1.1 mi) to USC W.Gate. Modern furnishing unit",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 1.28,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10000212",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10000212",
+   "name": "1601 W 35th St",
+   "address": "1601 W 35th St, Los Angeles, CA 90018",
+   "lat": 34.024812,
+   "lng": -118.306253,
+   "rent": 1038,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 15,
+   "bedsMax": 16,
+   "baths": 15.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 15B15B",
+     "roomType": "private_room",
+     "beds": 15,
+     "baths": 15.0,
+     "privateBath": true,
+     "rent": 1038,
+     "count": 27
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "Smart Lock",
+    "Parking",
+    "Furnished",
+    "Private Bathroom",
+    "Bed",
+    "AC"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/1f77c3dc9ee1c713.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/1fc6abd17c73b4d5.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/893047d97853bd5c.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/adebf42e2683bbc3.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/a11a82656813fdbd.jpg"
+   ],
+   "photoCredit": "",
+   "description": "23 mins walk (1.0 mi) to USC W.Gate. Modern furnishing unit",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 1.23,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10000238",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10000238",
+   "name": "1158 W 37th St",
+   "address": "1158 W 37th St, Los Angeles, CA 90007",
+   "lat": 34.0206649,
+   "lng": -118.2934436,
+   "rent": 1568,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 3,
+   "bedsMax": 5,
+   "baths": 3.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 3B3B",
+     "roomType": "private_room",
+     "beds": 3,
+     "baths": 3.0,
+     "privateBath": true,
+     "rent": 1568,
+     "count": 19
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "House",
+    "Co-living"
+   ],
+   "amenities": [
+    "DPS",
+    "Walk To Campus",
+    "Free Lyft",
+    "Parking",
+    "Furnished",
+    "Private Bathroom"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/8544_20260305231429.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20221111082905Daisy-RE-5.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/392_20260303020826.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20221111082905Daisy-RE-7.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20221111082905Daisy-RE-9.jpg"
+   ],
+   "photoCredit": "",
+   "description": "6 mins walk (0.3 mi) to USC W.Gate. Modern furnishings",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.46,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:50000236",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/50000236",
+   "name": "1672 W 35th St",
+   "address": "1672 W 35th St, Los Angeles, CA 90018",
+   "lat": 34.0243686,
+   "lng": -118.3082355,
+   "rent": 1095,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 14,
+   "bedsMax": 20,
+   "baths": 14.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 14B14B",
+     "roomType": "private_room",
+     "beds": 14,
+     "baths": 14.0,
+     "privateBath": true,
+     "rent": 1095,
+     "count": 23
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "House",
+    "Co-living"
+   ],
+   "amenities": [
+    "Washer/Dryer"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/7514_20261103021414.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/6567_20260904020139.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/3058_20261103021414.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/4824_20261103021414.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/6447_20261103021414.png"
+   ],
+   "photoCredit": "",
+   "description": ". Fully Furnished",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 1.33,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:50000155",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/50000155",
+   "name": "1337 W 36th PI",
+   "address": "1337 W 36th Pl, Los Angeles, CA 90007, Los Angeles, CA 90007",
+   "lat": 34.0220516,
+   "lng": -118.2985098,
+   "rent": 1374,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 3,
+   "bedsMax": 4,
+   "baths": 2.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 3B2B",
+     "roomType": "private_room",
+     "beds": 3,
+     "baths": 2.0,
+     "privateBath": true,
+     "rent": 1374,
+     "count": 22
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "House",
+    "Co-living"
+   ],
+   "amenities": [
+    "DPS",
+    "Walk To Campus",
+    "Free Lyft",
+    "Parking",
+    "Private Bathroom",
+    "Garden"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/1779_20260814011439.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/2569_20260222034736.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/2650_20260814011439.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/4889_20260814011439.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/7551_20260814011822.png"
+   ],
+   "photoCredit": "",
+   "description": "",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.76,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:50000149",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/50000149",
+   "name": "Polaris Lux",
+   "address": "1128 W 37th Dr, Los Angeles, CA 90007",
+   "lat": 34.0188739,
+   "lng": -118.2925649,
+   "rent": 1530,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 2,
+   "bedsMax": 5,
+   "baths": 2.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 2B2B",
+     "roomType": "private_room",
+     "beds": 2,
+     "baths": 2.0,
+     "privateBath": true,
+     "rent": 1530,
+     "count": 24
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Apartment",
+    "Co-living"
+   ],
+   "amenities": [
+    "Walk To Campus",
+    "Furnished",
+    "Private Bathroom",
+    "AC",
+    "Garbage Disposal",
+    "In-Unit W/D"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/76_20260625200237.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/937_20260124002337.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/4246_20260124002337.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/638_20260130235246.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/8077_20260124002337.jpg"
+   ],
+   "photoCredit": "",
+   "description": ". Community, Privacy, Modern, Comfortable, Furnish",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.43,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:50000112",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/50000112",
+   "name": "1016 W 21st St",
+   "address": "1016 W 21st St, Los Angeles, CA 90007",
+   "lat": 34.0357548,
+   "lng": -118.2814093,
+   "rent": 1268,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 2,
+   "bedsMax": 3,
+   "baths": 2.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 2B2B",
+     "roomType": "private_room",
+     "beds": 2,
+     "baths": 2.0,
+     "privateBath": true,
+     "rent": 1268,
+     "count": 6
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Apartment",
+    "Co-living"
+   ],
+   "amenities": [
+    "Private Bathroom",
+    "Public Transportation",
+    "On-site Laundry",
+    "Security Camera",
+    "On-Site W/D"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202412102257078374.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202412102257079994.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202412102257077263.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202412102257075850.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202412102257074993.jpg"
+   ],
+   "photoCredit": "",
+   "description": "",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 1.07,
+   "inDps": true,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:50000056",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/50000056",
+   "name": "1361 W 35th St",
+   "address": "1361 W 35th St, Los Angeles, CA 90007",
+   "lat": 34.0248536,
+   "lng": -118.2992295,
+   "rent": 1108,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 3,
+   "bedsMax": 9,
+   "baths": 3.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 3B3B",
+     "roomType": "private_room",
+     "beds": 3,
+     "baths": 3.0,
+     "privateBath": true,
+     "rent": 1108,
+     "count": 29
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Duplexe",
+    "Co-living"
+   ],
+   "amenities": [
+    "DPS",
+    "Smart Lock",
+    "Free Lyft",
+    "Parking",
+    "Furnished",
+    "Private Bathroom"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202404270233074978.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202404270233076385.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202405210118551092.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202405210118553953.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202405210118553556.jpg"
+   ],
+   "photoCredit": "",
+   "description": "14 mins walk (0.6 mi) to USC W.Gate. Modern furnishing unit",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.84,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:50000099",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/50000099",
+   "name": "The Oasis",
+   "address": "1600 W 35th St, Los Angeles, CA 90018",
+   "lat": 34.024411,
+   "lng": -118.3062519,
+   "rent": 1008,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 14,
+   "bedsMax": 20,
+   "baths": 14.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 14B14B",
+     "roomType": "private_room",
+     "beds": 14,
+     "baths": 14.0,
+     "privateBath": true,
+     "rent": 1008,
+     "count": 20
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Duplexe",
+    "Co-living"
+   ],
+   "amenities": [
+    "Private Bathroom",
+    "Bed",
+    "AC",
+    "TV",
+    "Island Table",
+    "In-Unit W/D"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202408301710502785.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202408302206563800.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/3317_20260626013021.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/590_20260626013032.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202408301710503540.jpg"
+   ],
+   "photoCredit": "",
+   "description": "23 mins walk (1.0 mi) to USC W.Gate",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 1.22,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10000215",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10000215",
+   "name": "1622 W 35th St",
+   "address": "1622 W 35th St, Los Angeles, CA 90018",
+   "lat": 34.0244896,
+   "lng": -118.306722,
+   "rent": 875,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 15,
+   "bedsMax": 15,
+   "baths": 15.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 15B15B",
+     "roomType": "private_room",
+     "beds": 15,
+     "baths": 15.0,
+     "privateBath": true,
+     "rent": 875,
+     "count": 24
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "Smart Lock",
+    "Parking",
+    "Furnished",
+    "Private Bathroom",
+    "Bed",
+    "AC"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/80d176b773df7a88.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/ca339904dfa9690f.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/f937287a02148705.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/11471b9c9aa6936e.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/e81279be1d4aaa2f.jpg"
+   ],
+   "photoCredit": "",
+   "description": "24 mins walk (1.1 mi) to USC W.Gate. Fully Furnished",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 1.25,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10000201",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10000201",
+   "name": "1430 W 37th St",
+   "address": "1430 W 37th St, Los Angeles, CA 90018",
+   "lat": 34.02098119874,
+   "lng": -118.30114331629,
+   "rent": 988,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 14,
+   "bedsMax": 18,
+   "baths": 14.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 14B14B",
+     "roomType": "private_room",
+     "beds": 14,
+     "baths": 14.0,
+     "privateBath": true,
+     "rent": 988,
+     "count": 21
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "Smart Lock",
+    "Parking",
+    "Furnished",
+    "Private Bathroom",
+    "TV",
+    "Locker"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/39f0b08a8b5a765e.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/cc3acaec081fbb5c.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/41e30b5d36c82330.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/ea7182c7663c2cc4.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/5b7df9910d47021e.jpg"
+   ],
+   "photoCredit": "",
+   "description": "14 mins walk (0.6 mi) to USC W.Gate. Modern furnishing unit",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.9,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:50000247",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/50000247",
+   "name": "1730 Magnolia Ave",
+   "address": "1730 Magnolia Ave, Los Angeles, CA 90006",
+   "lat": 34.0423982,
+   "lng": -118.2861395,
+   "rent": 998,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 12,
+   "bedsMax": 12,
+   "baths": 12.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 12B12B",
+     "roomType": "private_room",
+     "beds": 12,
+     "baths": 12.0,
+     "privateBath": true,
+     "rent": 998,
+     "count": 2
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "Washer/Dryer",
+    "Security Camera"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/55_20261113134848.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/3085_20261113134848.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/6785_20261113134848.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/6083_20261113134848.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/155_20261113134848.png"
+   ],
+   "photoCredit": "",
+   "description": "",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 1.51,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10000063",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10000063",
+   "name": "1370 W 35th Pl",
+   "address": "1370 W 35th Pl, Los Angeles, CA 90007",
+   "lat": 34.0235152,
+   "lng": -118.2995748,
+   "rent": 1861,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 0,
+   "bedsMax": 0,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath",
+     "roomType": "private_room",
+     "beds": 0,
+     "baths": 1.0,
+     "privateBath": true,
+     "rent": 1861,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "DPS",
+    "Walk To Campus",
+    "Free Lyft",
+    "Parking",
+    "Furnished",
+    "Private Bathroom"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20250423172308554.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/76d025202a3cf4bd.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/5c1efc22e36b9d00.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/6f4b3c791637553b.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202304231001363741.jpg"
+   ],
+   "photoCredit": "",
+   "description": "13 mins walk (0.6 mi) to USC W.Gate.  Modern furnishings",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.84,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10000167",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10000167",
+   "name": "1201 W 36th Pl",
+   "address": "1201 W 36th Pl, Los Angeles, CA 90007",
+   "lat": 34.022443810713,
+   "lng": -118.29443798512,
+   "rent": 3296,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 2,
+   "bedsMax": 2,
+   "baths": 2.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 2B2B",
+     "roomType": "private_room",
+     "beds": 2,
+     "baths": 2.0,
+     "privateBath": true,
+     "rent": 3296,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "DPS",
+    "Walk To Campus",
+    "Free Lyft",
+    "Parking",
+    "Furnished",
+    "Private Bathroom"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/8597_20260814010000.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/47_20260814010000.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/5531_20260814005921.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/2572_20260814005317.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/5623_20260814005725.png"
+   ],
+   "photoCredit": "",
+   "description": "4 mins walk (0.2 mi) to USC W.Gate. Private Bedroom ",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.53,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10020004",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10020004",
+   "name": "2926 S Normandie Ave",
+   "address": "2926 S Normandie Ave, Los Angeles, CA 90007",
+   "lat": 34.028206,
+   "lng": -118.2999163,
+   "rent": 2775,
+   "rentMax": null,
+   "priceUnit": "per unit",
+   "callForPricing": false,
+   "beds": 2,
+   "bedsMax": 2,
+   "baths": 1.0,
+   "units": [
+    {
+     "label": "2B1B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": 1.0,
+     "privateBath": false,
+     "rent": 2775,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home"
+   ],
+   "amenities": [
+    "DPS",
+    "Furnished",
+    "AC",
+    "Garbage Disposal",
+    "In-Unit W/D",
+    "Dishwasher"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/8249_20260618232025.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/9277_20260618232038.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/9885_20260618232039.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/6550_20260618232041.jpg"
+   ],
+   "photoCredit": "",
+   "description": "21 mins walk (0.9 mi) to USC W.Gate. Large walk-in closet",
+   "sampleData": false,
+   "utilitiesEst": 120,
+   "distanceToCampusMi": 0.98,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10000061",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10000061",
+   "name": "1259 W 36th Pl",
+   "address": "1259 W 36th Pl, Los Angeles, CA 90007",
+   "lat": 34.0221412,
+   "lng": -118.2964449,
+   "rent": 4000,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 3,
+   "bedsMax": 3,
+   "baths": 3.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 3B3B",
+     "roomType": "private_room",
+     "beds": 3,
+     "baths": 3.0,
+     "privateBath": true,
+     "rent": 4000,
+     "count": 2
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "DPS",
+    "Walk To Campus",
+    "Free Lyft",
+    "Parking",
+    "Furnished",
+    "Private Bathroom"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/3244_20260626232334.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/427_20260626232251.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/6223_20260626232305.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/2195_20260626232320.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/6787_20260626232457.png"
+   ],
+   "photoCredit": "",
+   "description": "7 mins walk (0.3 mi) to USC W.Gate. Within DPS Zone",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.64,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10000222",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10000222",
+   "name": "3679 S Halldale Ave",
+   "address": "3679 S Halldale Ave, Los Angeles, CA 90018",
+   "lat": 34.021126,
+   "lng": -118.303237,
+   "rent": 1188,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 4,
+   "bedsMax": 6,
+   "baths": 4.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 4B4B",
+     "roomType": "private_room",
+     "beds": 4,
+     "baths": 4.0,
+     "privateBath": true,
+     "rent": 1188,
+     "count": 35
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "Smart Lock",
+    "Parking",
+    "Furnished",
+    "Private Bathroom",
+    "TV",
+    "In-Unit W/D"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/2b478fafffae5785.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/f305eca02a233579.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/a3d065e66f0e7ecd.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20250423172646989.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202504231726467466.png"
+   ],
+   "photoCredit": "",
+   "description": "17 mins walk (0.7 mi) to USC W.Gate. Modern furnishing unit",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 1.02,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10000200",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10000200",
+   "name": "1351 W 37th St",
+   "address": "1351 W 37th St, Los Angeles, CA 90007",
+   "lat": 34.0211769,
+   "lng": -118.2990468,
+   "rent": 1338,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 4,
+   "bedsMax": 9,
+   "baths": 4.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 4B4B",
+     "roomType": "private_room",
+     "beds": 4,
+     "baths": 4.0,
+     "privateBath": true,
+     "rent": 1338,
+     "count": 29
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "DPS",
+    "Walk To Campus",
+    "Smart Lock",
+    "Free Lyft",
+    "Parking",
+    "Furnished",
+    "Private Bathroom"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202504090238011984.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/6b918bbce9c091f7.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/d074ba219ec2ac98.JPG",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/25e2fefc5f83aa40.jpeg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20af93fd90d727d6.JPG"
+   ],
+   "photoCredit": "",
+   "description": "11 mins walk (0.5 mi) to USC W.Gate. Modern furnishing unit",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.78,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10020005",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10020005",
+   "name": "1366 West 35th St",
+   "address": "1366 W 35th St, Los Angeles, CA 90007",
+   "lat": 34.024387,
+   "lng": -118.2994181,
+   "rent": 1298,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 8,
+   "bedsMax": 9,
+   "baths": 8.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 8B8B",
+     "roomType": "private_room",
+     "beds": 8,
+     "baths": 8.0,
+     "privateBath": true,
+     "rent": 1298,
+     "count": 34
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "DPS",
+    "Walk To Campus",
+    "Smart Lock",
+    "Parking",
+    "Furnished",
+    "Private Bathroom"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202504231654597661.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202401190117153334.JPG",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202307171903226296.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202401190117152986.JPG",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202401190120364825.JPG"
+   ],
+   "photoCredit": "",
+   "description": "14 mins walk (0.6 mi) to USC W.Gate. Modern furnishing unit",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.84,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10019963",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10019963",
+   "name": "1224 W 37th Pl",
+   "address": "1224 W 37th Pl, Los Angeles, CA 90007",
+   "lat": 34.01995546849435,
+   "lng": -118.29530823160617,
+   "rent": 1388,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 6,
+   "bedsMax": 9,
+   "baths": 6.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 6B6B",
+     "roomType": "private_room",
+     "beds": 6,
+     "baths": 6.0,
+     "privateBath": true,
+     "rent": 1388,
+     "count": 33
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "DPS",
+    "Walk To Campus",
+    "Smart Lock",
+    "Free Lyft",
+    "Parking",
+    "Furnished",
+    "Private Bathroom"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20230206193329Tripalink_1226%20W37th_KK-21.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20230206193329Tripalink_1226%20W37th_KK-14.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20230206193329Tripalink_1226%20W37th_KK-13.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20230206193329Tripalink_1226%20W37th_KK-23.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20230206193329Tripalink_1226%20W37th_KK-19.jpg"
+   ],
+   "photoCredit": "",
+   "description": "8 mins walk (0.4 mi) to USC W.Gate. Modern furnishing unit",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.57,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10000062",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10000062",
+   "name": "1329 W 37th Pl",
+   "address": "1329 W 37th Pl, Los Angeles, CA 90007",
+   "lat": 34.0201872,
+   "lng": -118.2983617,
+   "rent": 1590,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 3,
+   "bedsMax": 3,
+   "baths": 3.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 3B3B",
+     "roomType": "private_room",
+     "beds": 3,
+     "baths": 3.0,
+     "privateBath": true,
+     "rent": 1590,
+     "count": 3
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Duplexe",
+    "Co-living"
+   ],
+   "amenities": [
+    "DPS",
+    "Walk To Campus",
+    "Smart Lock",
+    "Free Lyft",
+    "Parking",
+    "Furnished",
+    "Private Bathroom"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20250423172803514.png",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20221111083251JB_Jane%20Kye_005.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20221111083251JB_Jane%20Kye_003.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20221111083251JB_Jane%20Kye_004.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/20221111083251JB_Jane%20Kye_002.jpg"
+   ],
+   "photoCredit": "",
+   "description": "12 mins walk (0.5 mi) to USC W.Gate.  Modern furnishings",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.74,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10000214",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10000214",
+   "name": "1620 W 35th Pl",
+   "address": "1620 W 35th Pl, Los Angeles, CA 90018",
+   "lat": 34.023616,
+   "lng": -118.306539,
+   "rent": 1038,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 13,
+   "bedsMax": 15,
+   "baths": 13.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 13B13B",
+     "roomType": "private_room",
+     "beds": 13,
+     "baths": 13.0,
+     "privateBath": true,
+     "rent": 1038,
+     "count": 27
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "Smart Lock",
+    "Parking",
+    "Furnished",
+    "Private Bathroom",
+    "TV",
+    "In-Unit W/D"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/353a33c6f1db81c1.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/7db695b84dcbf1d4.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/d8ee08c80993ae6a.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/f3401a7fafe77170.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/470f986e443e49f5.jpg"
+   ],
+   "photoCredit": "",
+   "description": "22 mins walk (1.0 mi) to USC W.Gate. Fully Furnished",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 1.23,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10019975",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10019975",
+   "name": "1443 W 37th Dr",
+   "address": "1439 W 37th Dr, Los Angeles, CA 90018",
+   "lat": 34.019380679438754,
+   "lng": -118.30151256217133,
+   "rent": 4362,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 4,
+   "bedsMax": 16,
+   "baths": 3.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 shared bath in 4B3B",
+     "roomType": "private_room",
+     "beds": 4,
+     "baths": 3.0,
+     "privateBath": false,
+     "rent": 4362,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "Smart Lock",
+    "Parking",
+    "Furnished",
+    "TV",
+    "Locker",
+    "Garbage Disposal"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202304140901255053.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202304140901257102.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202304140901251434.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/202304132233594656.JPG",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/2023050401331739.JPG"
+   ],
+   "photoCredit": "",
+   "description": "17 mins walk (0.7 mi) to USC W.Gate. Modern furnishing unit",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.93,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "tripalink:10000204",
+   "source": "Tripalink",
+   "url": "https://tripalink.com/apartments/los-angeles/usc-off-campus-student-housing/10000204",
+   "name": "1451 W 36th Pl",
+   "address": "1451 W 36th Pl, Los Angeles, CA 90018",
+   "lat": 34.021962,
+   "lng": -118.301756,
+   "rent": 1198,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": false,
+   "beds": 8,
+   "bedsMax": 8,
+   "baths": 8.0,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 8B8B",
+     "roomType": "private_room",
+     "beds": 8,
+     "baths": 8.0,
+     "privateBath": true,
+     "rent": 1198,
+     "count": 8
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": "Available now",
+   "propertyTypes": [
+    "Home",
+    "Co-living"
+   ],
+   "amenities": [
+    "Parking",
+    "Furnished",
+    "Private Bathroom",
+    "Bed",
+    "Garden",
+    "AC"
+   ],
+   "photos": [
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/6ea71f9a3fbc1285.jpg",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/f9f599a2c04f6255.JPG",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/8bda89db479bc7df.JPG",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/c3cce97c369a0512.JPG",
+    "https://tripalink-property.s3.us-west-1.amazonaws.com/85b866ba026afe44.JPG"
+   ],
+   "photoCredit": "",
+   "description": "13 mins walk (0.6 mi) to USC W.Gate.  Modern furnishings",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.94,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:830",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/8df2df7d-c0e8-40f2-a4b0-8ec2bb03ff6f",
+   "name": "2121 1/2 S Union Avenue",
+   "address": "2121 1/2 S Union Avenue, Los Angeles, CA 90007",
+   "lat": 34.0358886,
+   "lng": -118.283006,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": true,
+   "beds": null,
+   "bedsMax": null,
+   "baths": null,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 3B3B",
+     "roomType": "private_room",
+     "beds": 3,
+     "baths": 3.0,
+     "privateBath": true,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/87b8eacb-8240-41eb-8b43-f163e28caacf/large.png"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 1.07,
+   "inDps": true,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:831",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/bccd0db9-7a12-46af-b6a3-48ed87332e1d",
+   "name": "1113 W 22nd Street",
+   "address": "1113 W 22nd Street, Los Angeles, CA 90007",
+   "lat": 34.0359399,
+   "lng": -118.28311,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": true,
+   "beds": null,
+   "bedsMax": null,
+   "baths": null,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 3B3B",
+     "roomType": "private_room",
+     "beds": 3,
+     "baths": 3.0,
+     "privateBath": true,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/87b8eacb-8240-41eb-8b43-f163e28caacf/large.png"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 1.07,
+   "inDps": true,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:153",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/8db102d0-eddf-4a99-912f-17bf9ae9a2f3",
+   "name": "2703 S Hoover St",
+   "address": "2703 S Hoover St, Los Angeles, CA 90007",
+   "lat": 34.030065,
+   "lng": -118.284382,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 0,
+   "bedsMax": 0,
+   "baths": null,
+   "units": [
+    {
+     "label": "Studio",
+     "roomType": "entire",
+     "beds": 0,
+     "baths": 1.0,
+     "privateBath": true,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "Studio",
+     "roomType": "entire",
+     "beds": 0,
+     "baths": 1.0,
+     "privateBath": true,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/e55f8fd2-f9b8-445b-b342-453653ae626f/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "2 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.66,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:61",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/14a46b4f-2ccf-441a-ba89-003ca571dae4",
+   "name": "2727-2729.5 Menlo Ave",
+   "address": "2727-2729.5 Menlo Ave, Los Angeles, CA 90007",
+   "lat": 34.0295406,
+   "lng": -118.2903431,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 1,
+   "bedsMax": 1,
+   "baths": null,
+   "units": [
+    {
+     "label": "1B1B",
+     "roomType": "entire",
+     "beds": 1,
+     "baths": 1.0,
+     "privateBath": true,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/f4663d86-0ff4-46ca-9178-fff8714106f1/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.68,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:827",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/8a569e9b-1d20-4af6-9fde-3878d19bf6b2",
+   "name": "2646 Magnolia Avenue",
+   "address": "2646 Magnolia Avenue, Los Angeles, CA 90007",
+   "lat": 34.0313851,
+   "lng": -118.286213,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": true,
+   "beds": null,
+   "bedsMax": null,
+   "baths": null,
+   "units": [
+    {
+     "label": "Private room \u00b7 shared bath in 6B5B",
+     "roomType": "private_room",
+     "beds": 6,
+     "baths": 5.0,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/7d06c159-3002-4728-9325-fa7558f2d32d/large.png"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.75,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:811",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/6d8d6df8-72e3-4f5c-b84d-9e92795ef081",
+   "name": "1150 W 28th St",
+   "address": "1150 W 28th St",
+   "lat": 34.0290861,
+   "lng": -118.2853675,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": true,
+   "beds": null,
+   "bedsMax": null,
+   "baths": null,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 2B2B",
+     "roomType": "private_room",
+     "beds": 2,
+     "baths": 2.0,
+     "privateBath": true,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/f81a3a0c-37db-4e7c-9d41-bc50826afbb9/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.59,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:808",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/0bec98f2-1c57-4412-b464-3fca979c2a76",
+   "name": "2921 1/2 S Hoover St",
+   "address": "2921 1/2 S Hoover St, Los Angeles, CA 90007",
+   "lat": 34.0308241,
+   "lng": -118.2842606,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": true,
+   "beds": null,
+   "bedsMax": null,
+   "baths": null,
+   "units": [
+    {
+     "label": "Private room \u00b7 shared bath in 3B1B",
+     "roomType": "private_room",
+     "beds": 3,
+     "baths": 1.0,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/f2121b4c-a05a-4478-b7da-c44c04f96512/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.71,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:696",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/865f85bb-a357-4f6f-ba85-1e81630c67da",
+   "name": "1560 W 29th St",
+   "address": "1560 W 29th St, Los Angeles, CA 90007",
+   "lat": 34.0289181,
+   "lng": -118.2965053,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 6,
+   "bedsMax": 6,
+   "baths": null,
+   "units": [
+    {
+     "label": "6B3B",
+     "roomType": "entire",
+     "beds": 6,
+     "baths": 3.0,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/f14f0041-b727-44f8-9e11-114180372429/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 240,
+   "distanceToCampusMi": 0.86,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:778",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/fce6c6b3-7198-4532-b358-f258663ebce7",
+   "name": "1418",
+   "address": "1418, 1418 1/2, 1420, 1420 1/2, 1422 West 28th Street, Los Angeles, CA 90007",
+   "lat": 34.0293794,
+   "lng": -118.2923342,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 3,
+   "bedsMax": 4,
+   "baths": null,
+   "units": [
+    {
+     "label": "3B2B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": 2.0,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "4B3B",
+     "roomType": "entire",
+     "beds": 4,
+     "baths": 3.0,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/2bc3320d-3b09-4c82-96f2-ca26bd30b5d4/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "2 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 150,
+   "distanceToCampusMi": 0.73,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:749",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/4a3f7061-10b4-4ffb-b4e3-42675b0d0523",
+   "name": "1331-1335 W 35th St",
+   "address": "1331-1335 W 35th St, Los Angeles, CA 90007",
+   "lat": 34.0247674,
+   "lng": -118.298399,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 5,
+   "bedsMax": 5,
+   "baths": null,
+   "units": [
+    {
+     "label": "5B2B",
+     "roomType": "entire",
+     "beds": 5,
+     "baths": 2.0,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/500f1e54-4fe3-430a-b597-9f1d2c31d3d3/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 210,
+   "distanceToCampusMi": 0.8,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:74",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/459964c8-837f-4c11-a5d7-766fd5a27177",
+   "name": "1141-1147 W 30th St",
+   "address": "1141-1147 W 30th St, Los Angeles, CA 90007",
+   "lat": 34.027696,
+   "lng": -118.287654,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 7,
+   "bedsMax": 7,
+   "baths": null,
+   "units": [
+    {
+     "label": "7B5B",
+     "roomType": "entire",
+     "beds": 7,
+     "baths": 5.0,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/cd124cde-c792-4a62-8f98-bbd5ba8c1bbc/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 270,
+   "distanceToCampusMi": 0.51,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:742",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/2738fb6b-bb84-4f33-bfa6-a617e4d8cf19",
+   "name": "1177-1179 W 29th Street",
+   "address": "1177-1179 W 29th Street, Los Angeles, CA 90007",
+   "lat": 34.028642,
+   "lng": -118.286074,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": true,
+   "beds": null,
+   "bedsMax": null,
+   "baths": null,
+   "units": [
+    {
+     "label": "Unit",
+     "roomType": "entire",
+     "beds": null,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/c47c0f8e-ec04-4005-8fd9-16cf04b7f0e1/large.png"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.56,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:680",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/8928cc6e-c523-4207-832c-e65275409b65",
+   "name": "2641",
+   "address": "2641,2643 Orchard Avenue, Los Angeles, CA 90007",
+   "lat": 34.0314535,
+   "lng": -118.2875807,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 4,
+   "bedsMax": 4,
+   "baths": null,
+   "units": [
+    {
+     "label": "4B4B",
+     "roomType": "entire",
+     "beds": 4,
+     "baths": 4.0,
+     "privateBath": true,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/afaa55b4-1ead-4812-97aa-23137c90f611/large.png"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 180,
+   "distanceToCampusMi": 0.76,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:109",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/199043e3-92c6-467f-9a92-c7abd78508bc",
+   "name": "1304-1306.5 W 29th St",
+   "address": "1304-1306.5 W 29th St, Los Angeles, CA 90007",
+   "lat": 34.0283972,
+   "lng": -118.2911637,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 5,
+   "bedsMax": 5,
+   "baths": null,
+   "units": [
+    {
+     "label": "5B4.5B",
+     "roomType": "entire",
+     "beds": 5,
+     "baths": 4.5,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/73b6aa57-e44a-452f-bd8f-cb8e25341c99/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 210,
+   "distanceToCampusMi": 0.63,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:509",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/b1f37182-0736-4a42-bc61-bd5088a77bcf",
+   "name": "2649 Orchard Avenue",
+   "address": "2649 Orchard Avenue, Los Angeles, CA 90007",
+   "lat": 34.0313299,
+   "lng": -118.2876526,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": true,
+   "beds": null,
+   "bedsMax": null,
+   "baths": null,
+   "units": [
+    {
+     "label": "Private room \u00b7 private bath in 4B4B",
+     "roomType": "private_room",
+     "beds": 4,
+     "baths": 4.0,
+     "privateBath": true,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "private_room"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://listings.cdn.appfolio.com/listings/assets/listings/rental_listing/no_photo-ea9e892a45f62e048771a4b22081d1eed003a21f0658a92aa5abcfd357dd4699.png"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.75,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:677",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/4dfdcf2e-36c0-4de4-95d5-557c76fd72da",
+   "name": "1540-1542 W 28th St &amp; 2808-2810 Budlong Ave",
+   "address": "1540-1542 W 28th St &amp; 2808-2810 Budlong Ave, Los Angeles, CA 90007",
+   "lat": 34.0295709,
+   "lng": -118.295918,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 5,
+   "bedsMax": 5,
+   "baths": null,
+   "units": [
+    {
+     "label": "5B3.5B",
+     "roomType": "entire",
+     "beds": 5,
+     "baths": 3.5,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/10e41fcc-6eb5-48f9-8b21-b4dbf2fd0e7e/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 210,
+   "distanceToCampusMi": 0.86,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:676",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/3a29f9b9-8257-450f-a24b-5f29679a385b",
+   "name": "2665 Orchard Avenue ",
+   "address": "2665 Orchard Avenue , Los Angeles, CA 90007",
+   "lat": 34.0309517,
+   "lng": -118.2876288,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 3,
+   "bedsMax": 3,
+   "baths": null,
+   "units": [
+    {
+     "label": "3B3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": 3.0,
+     "privateBath": true,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/5baed047-e327-4cf5-b53f-be01c9dc0064/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 150,
+   "distanceToCampusMi": 0.73,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:55",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/befa210d-0868-4072-bf75-4a3eb44e820f",
+   "name": "2820 Menlo Avenue",
+   "address": "2820 Menlo Avenue, Los Angeles, CA 90007",
+   "lat": 34.02888,
+   "lng": -118.2900223,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 6,
+   "bedsMax": 6,
+   "baths": null,
+   "units": [
+    {
+     "label": "6B3B",
+     "roomType": "entire",
+     "beds": 6,
+     "baths": 3.0,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "6B3B",
+     "roomType": "entire",
+     "beds": 6,
+     "baths": 3.0,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "6B3B",
+     "roomType": "entire",
+     "beds": 6,
+     "baths": 3.0,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/4ef1b147-8d20-4099-bb45-55e80e10a372/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "3 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 240,
+   "distanceToCampusMi": 0.63,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:59",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/ee2e683f-859f-4977-997b-6fd98e9189c4",
+   "name": "2801 Menlo Ave",
+   "address": "2801 Menlo Ave, Los Angeles, CA 90007",
+   "lat": 34.029425,
+   "lng": -118.2906434,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per room",
+   "callForPricing": true,
+   "beds": null,
+   "bedsMax": null,
+   "baths": null,
+   "units": [
+    {
+     "label": "Unit",
+     "roomType": "entire",
+     "beds": null,
+     "baths": null,
+     "privateBath": null,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/2349dd11-872d-4eae-ba7f-f3d027687688/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 75,
+   "distanceToCampusMi": 0.68,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:163",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/8299d60e-a8d5-46f2-a4ea-0ad46c92ca4f",
+   "name": "2723-2725 Menlo Ave",
+   "address": "2723-2725 Menlo Ave, Los Angeles, CA 90007",
+   "lat": 34.0296973,
+   "lng": -118.2906187,
+   "rent": 2150,
+   "rentMax": 2150,
+   "priceUnit": "per unit",
+   "callForPricing": false,
+   "beds": 1,
+   "bedsMax": 1,
+   "baths": null,
+   "units": [
+    {
+     "label": "1B1B",
+     "roomType": "entire",
+     "beds": 1,
+     "baths": 1.0,
+     "privateBath": true,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "1B1B",
+     "roomType": "entire",
+     "beds": 1,
+     "baths": 1.0,
+     "privateBath": true,
+     "rent": 2150,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/d2e1c76e-dd33-4274-8b72-17c9ff490294/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "2 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.7,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:121",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/1066f020-66d5-43cb-832c-8722968283df",
+   "name": "2633 Monmouth Ave",
+   "address": "2633 Monmouth Ave, Los Angeles, CA 90007",
+   "lat": 34.0312357,
+   "lng": -118.2852081,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 3,
+   "bedsMax": 4,
+   "baths": null,
+   "units": [
+    {
+     "label": "4B4B",
+     "roomType": "entire",
+     "beds": 4,
+     "baths": 4.0,
+     "privateBath": true,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "3B2B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": 2.0,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/3a0d1d84-6614-4ffb-b91b-6a8e8112ec97/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "2 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 150,
+   "distanceToCampusMi": 0.73,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:42",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/0a2ef5b8-6338-428e-b21d-bb80547e05bf",
+   "name": "1459 W 29th Street",
+   "address": "1459 W 29th Street, Los Angeles, CA 90007",
+   "lat": 34.0288885,
+   "lng": -118.2933481,
+   "rent": 1900,
+   "rentMax": 1900,
+   "priceUnit": "per unit",
+   "callForPricing": false,
+   "beds": 4,
+   "bedsMax": 4,
+   "baths": null,
+   "units": [
+    {
+     "label": "4B1.5B",
+     "roomType": "entire",
+     "beds": 4,
+     "baths": 1.5,
+     "privateBath": false,
+     "rent": 1900,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/34998fea-c1d3-47f1-a327-f218585b1ae0/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 180,
+   "distanceToCampusMi": 0.73,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:111",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/592542d2-bf17-4fe6-978d-759c2feeecfb",
+   "name": "1322-1326.5 W 30th Street",
+   "address": "1322-1326.5 W 30th Street, Los Angeles, CA 90007",
+   "lat": 34.0274304,
+   "lng": -118.2861741,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 3,
+   "bedsMax": 3,
+   "baths": null,
+   "units": [
+    {
+     "label": "3B2B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": 2.0,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/7e8fc71a-ab66-443f-91a3-a15911c22d25/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 150,
+   "distanceToCampusMi": 0.47,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:8",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/83aadb7c-54e3-45ac-b2b6-bd89dd55a158",
+   "name": "1273-1275.5 W 35th St",
+   "address": "1273-1275.5 W 35th St, Los Angeles, CA 90007",
+   "lat": 34.0247481,
+   "lng": -118.296759,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 3,
+   "bedsMax": 5,
+   "baths": null,
+   "units": [
+    {
+     "label": "3B3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": 3.0,
+     "privateBath": true,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "5B5B",
+     "roomType": "entire",
+     "beds": 5,
+     "baths": 5.0,
+     "privateBath": true,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/107f7438-3264-4208-aa51-10924fda058e/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "2 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 150,
+   "distanceToCampusMi": 0.71,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:40",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/1d234df1-48f5-4a31-956b-2c311530312c",
+   "name": "1257-1259 3/4 W Adams Blvd",
+   "address": "1257-1259 3/4 W Adams Blvd, Los Angeles, CA 90007",
+   "lat": 34.0325176,
+   "lng": -118.3275239,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 3,
+   "bedsMax": 4,
+   "baths": null,
+   "units": [
+    {
+     "label": "4B4B",
+     "roomType": "entire",
+     "beds": 4,
+     "baths": 4.0,
+     "privateBath": true,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "4B3B",
+     "roomType": "entire",
+     "beds": 4,
+     "baths": 3.0,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "3B2B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": 2.0,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/f7d91661-27e1-40d1-858d-1f497cb74433/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "3 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 150,
+   "distanceToCampusMi": 2.55,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:101",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/33648a9e-f04a-467f-ae67-b13b19709bfd",
+   "name": "1205-1207 W 37th Pl",
+   "address": "1205-1207 W 37th Pl, Los Angeles, CA 90007",
+   "lat": 34.0201673,
+   "lng": -118.2947537,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 6,
+   "bedsMax": 6,
+   "baths": null,
+   "units": [
+    {
+     "label": "6B4.5B",
+     "roomType": "entire",
+     "beds": 6,
+     "baths": 4.5,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/f74840ab-e99a-40da-ab15-be23d47ceaf1/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 240,
+   "distanceToCampusMi": 0.54,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:17",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/df0ec418-e4ea-4372-b571-50d5985293d7",
+   "name": "1157 W 28th Street",
+   "address": "1157 W 28th Street, Los Angeles, CA 90007",
+   "lat": 34.0295996,
+   "lng": -118.2855856,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 2,
+   "bedsMax": 2,
+   "baths": null,
+   "units": [
+    {
+     "label": "2B1B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": 1.0,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/a34150a9-7dea-46b6-8a00-c25495d6cfe1/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 120,
+   "distanceToCampusMi": 0.62,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:176",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/30dbd618-4aec-4de1-b251-9cf9ec8d3a09",
+   "name": "1140 W Adams Blvd",
+   "address": "1140 W Adams Blvd, Los Angeles, CA 90007",
+   "lat": 34.0318761,
+   "lng": -118.2852081,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 4,
+   "bedsMax": 4,
+   "baths": null,
+   "units": [
+    {
+     "label": "4B2B",
+     "roomType": "entire",
+     "beds": 4,
+     "baths": 2.0,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/3a25f83b-be90-4a89-a330-81cd3d58c5ef/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 180,
+   "distanceToCampusMi": 0.78,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:62",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/0cc1eba2-d4d0-40cb-a00d-5a9d83ee2974",
+   "name": "1124 - 1126.5 West 28th Street",
+   "address": "1124 - 1126.5 West 28th Street, Los Angeles, CA 90007",
+   "lat": 34.0277302,
+   "lng": -118.2810882,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 3,
+   "bedsMax": 6,
+   "baths": null,
+   "units": [
+    {
+     "label": "6B3B",
+     "roomType": "entire",
+     "beds": 6,
+     "baths": 3.0,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    },
+    {
+     "label": "3B2B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": 2.0,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/bac54816-2227-4fa1-bc63-d9b788684bf0/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "2 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 150,
+   "distanceToCampusMi": 0.55,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:28",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/5f0be885-e096-440f-b95a-7f8824590049",
+   "name": "1039-1041 W 30th Street",
+   "address": "1039-1041 W 30th Street, Los Angeles, CA 90007",
+   "lat": 34.0276389,
+   "lng": -118.2850254,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 4,
+   "bedsMax": 4,
+   "baths": null,
+   "units": [
+    {
+     "label": "4B3B",
+     "roomType": "entire",
+     "beds": 4,
+     "baths": 3.0,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/9e6e8d19-5b2a-4e7c-90f5-66397f71c750/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 180,
+   "distanceToCampusMi": 0.49,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "mosaicstudent:44",
+   "source": "Mosaic Student Communities",
+   "url": "https://mosaicstudent.appfolio.com/listings/detail/22fee496-5328-401c-ae18-51d7d45b3c54",
+   "name": "1286-1288.5 W 29th St",
+   "address": "1286-1288.5 W 29th St, Los Angeles, CA 90007",
+   "lat": 34.0281301,
+   "lng": -118.2888224,
+   "rent": null,
+   "rentMax": null,
+   "priceUnit": "per unit",
+   "callForPricing": true,
+   "beds": 8,
+   "bedsMax": 8,
+   "baths": null,
+   "units": [
+    {
+     "label": "8B4B",
+     "roomType": "entire",
+     "beds": 8,
+     "baths": 4.0,
+     "privateBath": false,
+     "rent": null,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": null,
+   "propertyTypes": [
+    "Student Housing"
+   ],
+   "amenities": [],
+   "photos": [
+    "https://images.cdn.appfolio.com/mosaicstudent/images/34a20542-ef1b-4da6-83a9-c885aee0c8a6/large.jpg"
+   ],
+   "photoCredit": "",
+   "description": "1 listing(s) on Mosaic Student Communities's AppFolio page",
+   "sampleData": false,
+   "utilitiesEst": 300,
+   "distanceToCampusMi": 0.56,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "featured:lorenzo",
+   "source": "Featured",
+   "url": "",
+   "name": "The Lorenzo",
+   "address": "325 W Adams Blvd, Los Angeles, CA 90007",
+   "lat": 34.02868,
+   "lng": -118.27262,
+   "rent": 899,
+   "rentMax": 4350,
+   "priceUnit": "per unit / per person",
+   "callForPricing": false,
+   "beds": 0,
+   "bedsMax": 3,
+   "baths": null,
+   "units": [
+    {
+     "label": "Studio",
+     "roomType": "entire",
+     "beds": 0,
+     "baths": 1.0,
+     "privateBath": true,
+     "rent": 1795,
+     "count": 1
+    },
+    {
+     "label": "1B1B",
+     "roomType": "entire",
+     "beds": 1,
+     "baths": 1.0,
+     "privateBath": true,
+     "rent": 2150,
+     "count": 1
+    },
+    {
+     "label": "2B1B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": 1.0,
+     "privateBath": false,
+     "rent": 2750,
+     "count": 1
+    },
+    {
+     "label": "2B2B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": 2.0,
+     "privateBath": true,
+     "rent": 3150,
+     "count": 1
+    },
+    {
+     "label": "3B2B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": 2.0,
+     "privateBath": false,
+     "rent": 3850,
+     "count": 1
+    },
+    {
+     "label": "3B3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": 3.0,
+     "privateBath": true,
+     "rent": 4350,
+     "count": 1
+    },
+    {
+     "label": "Private room \u00b7 private bath in 4B4B",
+     "roomType": "private_room",
+     "beds": 4,
+     "baths": 4.0,
+     "privateBath": true,
+     "rent": 1450,
+     "count": 1
+    },
+    {
+     "label": "Private room \u00b7 shared bath in 4B2B",
+     "roomType": "private_room",
+     "beds": 4,
+     "baths": 2.0,
+     "privateBath": false,
+     "rent": 1150,
+     "count": 1
+    },
+    {
+     "label": "Shared room \u00b7 private bath",
+     "roomType": "shared_room",
+     "beds": 2,
+     "baths": 2.0,
+     "privateBath": true,
+     "rent": 899,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire",
+    "private_room",
+    "shared_room"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Student Housing"
+   ],
+   "amenities": [
+    "Furnished",
+    "Gym",
+    "Pool",
+    "Shuttle to USC",
+    "Study rooms",
+    "Parking",
+    "In-unit laundry"
+   ],
+   "photos": [
+    "https://images.apts247.info/52849/1024x1024.jpeg",
+    "https://images.apts247.info/52919/1024x1024.jpeg",
+    "https://images.apts247.info/182007/1024x1024.jpeg"
+   ],
+   "photoCredit": "Photos: thelorenzo.com",
+   "description": "Large furnished student community with a free shuttle to campus. (Floorplans and prices are illustrative.)",
+   "sampleData": true,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.92,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "featured:menlo",
+   "source": "Featured",
+   "url": "",
+   "name": "Menlo (2678 Menlo Ave)",
+   "address": "2678 Menlo Ave, Los Angeles, CA 90007",
+   "lat": 34.03046,
+   "lng": -118.29003,
+   "rent": 899,
+   "rentMax": 3150,
+   "priceUnit": "per unit / per person",
+   "callForPricing": false,
+   "beds": 1,
+   "bedsMax": 2,
+   "baths": null,
+   "units": [
+    {
+     "label": "1B1B",
+     "roomType": "entire",
+     "beds": 1,
+     "baths": 1.0,
+     "privateBath": true,
+     "rent": 2150,
+     "count": 1
+    },
+    {
+     "label": "2B1B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": 1.0,
+     "privateBath": false,
+     "rent": 2750,
+     "count": 1
+    },
+    {
+     "label": "2B2B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": 2.0,
+     "privateBath": true,
+     "rent": 3150,
+     "count": 1
+    },
+    {
+     "label": "Private room \u00b7 private bath in 4B4B",
+     "roomType": "private_room",
+     "beds": 4,
+     "baths": 4.0,
+     "privateBath": true,
+     "rent": 1450,
+     "count": 1
+    },
+    {
+     "label": "Private room \u00b7 shared bath in 4B2B",
+     "roomType": "private_room",
+     "beds": 4,
+     "baths": 2.0,
+     "privateBath": false,
+     "rent": 1150,
+     "count": 1
+    },
+    {
+     "label": "Shared room \u00b7 private bath",
+     "roomType": "shared_room",
+     "beds": 2,
+     "baths": 2.0,
+     "privateBath": true,
+     "rent": 899,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire",
+    "private_room",
+    "shared_room"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Student Housing"
+   ],
+   "amenities": [
+    "Furnished",
+    "Laundry",
+    "AC"
+   ],
+   "photos": [
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/1060_S._Bronson_LA.jpg/1280px-1060_S._Bronson_LA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   ],
+   "photoCredit": "Representative photo (not this building) \u00b7 Downtowngal, CC BY-SA 4.0, Wikimedia Commons",
+   "description": "Smaller walk-up building north of campus. (Floorplans and prices are illustrative.)",
+   "sampleData": true,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.73,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "featured:ellendale",
+   "source": "Featured",
+   "url": "",
+   "name": "Ellendale (2666 Ellendale Pl)",
+   "address": "2666 Ellendale Pl, Los Angeles, CA 90007",
+   "lat": 34.03079,
+   "lng": -118.28832,
+   "rent": 899,
+   "rentMax": 4350,
+   "priceUnit": "per unit / per person",
+   "callForPricing": false,
+   "beds": 3,
+   "bedsMax": 3,
+   "baths": null,
+   "units": [
+    {
+     "label": "3B2B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": 2.0,
+     "privateBath": false,
+     "rent": 3850,
+     "count": 1
+    },
+    {
+     "label": "3B3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": 3.0,
+     "privateBath": true,
+     "rent": 4350,
+     "count": 1
+    },
+    {
+     "label": "Private room \u00b7 private bath in 4B4B",
+     "roomType": "private_room",
+     "beds": 4,
+     "baths": 4.0,
+     "privateBath": true,
+     "rent": 1450,
+     "count": 1
+    },
+    {
+     "label": "Private room \u00b7 shared bath in 4B2B",
+     "roomType": "private_room",
+     "beds": 4,
+     "baths": 2.0,
+     "privateBath": false,
+     "rent": 1150,
+     "count": 1
+    },
+    {
+     "label": "Shared room \u00b7 private bath",
+     "roomType": "shared_room",
+     "beds": 2,
+     "baths": 2.0,
+     "privateBath": true,
+     "rent": 899,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire",
+    "private_room",
+    "shared_room"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Student Housing"
+   ],
+   "amenities": [
+    "Furnished",
+    "Private bathroom",
+    "Laundry",
+    "Bike storage"
+   ],
+   "photos": [
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/1281_S_Dunsmuir%2C_LA.jpg/1280px-1281_S_Dunsmuir%2C_LA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   ],
+   "photoCredit": "Representative photo (not this building) \u00b7 Downtowngal, CC BY-SA 4.0, Wikimedia Commons",
+   "description": "Co-living rooms and 3-bedroom units on a quiet residential block. (Floorplans and prices are illustrative.)",
+   "sampleData": true,
+   "utilitiesEst": 150,
+   "distanceToCampusMi": 0.72,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "featured:palisades",
+   "source": "Featured",
+   "url": "",
+   "name": "The Palisades",
+   "address": "W 29th St, Los Angeles, CA 90007",
+   "lat": 34.02905,
+   "lng": -118.2865,
+   "rent": 1795,
+   "rentMax": 4350,
+   "priceUnit": "per unit / per person",
+   "callForPricing": false,
+   "beds": 0,
+   "bedsMax": 3,
+   "baths": null,
+   "units": [
+    {
+     "label": "Studio",
+     "roomType": "entire",
+     "beds": 0,
+     "baths": 1.0,
+     "privateBath": true,
+     "rent": 1795,
+     "count": 1
+    },
+    {
+     "label": "1B1B",
+     "roomType": "entire",
+     "beds": 1,
+     "baths": 1.0,
+     "privateBath": true,
+     "rent": 2150,
+     "count": 1
+    },
+    {
+     "label": "2B1B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": 1.0,
+     "privateBath": false,
+     "rent": 2750,
+     "count": 1
+    },
+    {
+     "label": "2B2B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": 2.0,
+     "privateBath": true,
+     "rent": 3150,
+     "count": 1
+    },
+    {
+     "label": "3B2B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": 2.0,
+     "privateBath": false,
+     "rent": 3850,
+     "count": 1
+    },
+    {
+     "label": "3B3B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": 3.0,
+     "privateBath": true,
+     "rent": 4350,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Student Housing"
+   ],
+   "amenities": [
+    "Furnished",
+    "Gym",
+    "Parking",
+    "In-unit laundry",
+    "Pet friendly"
+   ],
+   "photos": [
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/1516_N._Hobart_Blvd%2C_Los_Angeles_%28cropped%29.jpg/1280px-1516_N._Hobart_Blvd%2C_Los_Angeles_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   ],
+   "photoCredit": "Representative photo (not this building) \u00b7 Downtowngal, CC BY-SA 4.0, Wikimedia Commons",
+   "description": "Apartment building with studios through 3-bedroom units. (Floorplans and prices are illustrative.)",
+   "sampleData": true,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 0.59,
+   "inDps": true,
+   "inFryft": true,
+   "scrapedAt": "2026-11-15T01:27:27"
+  },
+  {
+   "id": "featured:citypark",
+   "source": "Featured",
+   "url": "",
+   "name": "City Park",
+   "address": "1640 W 36th Pl, Los Angeles, CA 90018",
+   "lat": 34.0218,
+   "lng": -118.30715,
+   "rent": 995,
+   "rentMax": 3200,
+   "priceUnit": "per unit / per person",
+   "callForPricing": false,
+   "beds": 1,
+   "bedsMax": 3,
+   "baths": null,
+   "units": [
+    {
+     "label": "1B1B",
+     "roomType": "entire",
+     "beds": 1,
+     "baths": 1.0,
+     "privateBath": true,
+     "rent": 1750,
+     "count": 1
+    },
+    {
+     "label": "2B1B",
+     "roomType": "entire",
+     "beds": 2,
+     "baths": 1.0,
+     "privateBath": false,
+     "rent": 2350,
+     "count": 1
+    },
+    {
+     "label": "3B2B",
+     "roomType": "entire",
+     "beds": 3,
+     "baths": 2.0,
+     "privateBath": false,
+     "rent": 3200,
+     "count": 1
+    },
+    {
+     "label": "Private room \u00b7 shared bath in 3B2B",
+     "roomType": "private_room",
+     "beds": 3,
+     "baths": 2.0,
+     "privateBath": false,
+     "rent": 995,
+     "count": 1
+    }
+   ],
+   "roomTypes": [
+    "entire",
+    "private_room"
+   ],
+   "availability": "Fall 2027",
+   "propertyTypes": [
+    "Apartments",
+    "Student Housing"
+   ],
+   "amenities": [
+    "Parking",
+    "Laundry",
+    "Pet friendly"
+   ],
+   "photos": [
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/2013%2C_An_Early_Los_Angeles_Apartment_Building_-_panoramio.jpg/1280px-2013%2C_An_Early_Los_Angeles_Apartment_Building_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   ],
+   "photoCredit": "Representative photo (not this building) \u00b7 Chris English, CC BY-SA 3.0, Wikimedia Commons",
+   "description": "Lower-priced units west of Normandie, outside the DPS patrol zone. (Floorplans and prices are illustrative.)",
+   "sampleData": true,
+   "utilitiesEst": 90,
+   "distanceToCampusMi": 1.25,
+   "inDps": false,
+   "inFryft": false,
+   "scrapedAt": "2026-11-15T01:27:27"
+  }
+ ]
+}

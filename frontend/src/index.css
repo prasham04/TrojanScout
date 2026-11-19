@@ -1,0 +1,123 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Instrument Serif", ui-serif, Georgia, serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  --color-cardinal: #990000;
+  --color-cardinal-dark: #6e0000;
+  --color-cardinal-50: #fdf2f2;
+  --color-gold: #ffc72c;
+  --color-gold-50: #fff8e1;
+  --color-ink: #1c1917;
+  --color-paper: #faf8f5;
+  --animate-shimmer: ts-shimmer 1.6s linear infinite;
+  --animate-aurora: ts-aurora 18s ease-in-out infinite alternate;
+  --animate-float: ts-float 6s ease-in-out infinite;
+}
+
+html, body, #root { height: 100%; margin: 0; }
+body {
+  @apply text-ink antialiased;
+  background-color: var(--color-paper);
+  /* soft warm light in the corners of every page */
+  background-image:
+    radial-gradient(60rem 40rem at -10% -20%, rgb(153 0 0 / 0.06), transparent 60%),
+    radial-gradient(50rem 36rem at 110% 0%, rgb(255 199 44 / 0.10), transparent 60%);
+  background-attachment: fixed;
+  font-feature-settings: "ss01", "cv11";
+}
+::selection { background: rgb(153 0 0 / 0.18); }
+
+/* ---------- design system ---------- */
+@layer components {
+  /* frosted glass: only for layers that float over something (map panels, chat, side panels) */
+  .glass {
+    background: rgb(255 255 255 / 0.68);
+    backdrop-filter: blur(18px) saturate(1.6);
+    -webkit-backdrop-filter: blur(18px) saturate(1.6);
+    border: 1px solid rgb(255 255 255 / 0.65);
+    box-shadow: 0 1px 0 rgb(255 255 255 / 0.8) inset, 0 12px 40px -12px rgb(28 25 23 / 0.28);
+  }
+  /* controls that float over the map: mostly solid so busy map tiles don't bleed through the text */
+  .glass-solid {
+    background: rgb(255 255 255 / 0.94);
+    backdrop-filter: blur(14px) saturate(1.4);
+    -webkit-backdrop-filter: blur(14px) saturate(1.4);
+    border: 1px solid rgb(231 229 228 / 0.9);
+    box-shadow: 0 12px 32px -14px rgb(0 0 0 / 0.28);
+  }
+  .glass-dark {
+    background: rgb(20 16 16 / 0.62);
+    backdrop-filter: blur(18px) saturate(1.4);
+    -webkit-backdrop-filter: blur(18px) saturate(1.4);
+    border: 1px solid rgb(255 255 255 / 0.10);
+    box-shadow: 0 1px 0 rgb(255 255 255 / 0.06) inset, 0 16px 48px -16px rgb(0 0 0 / 0.6);
+    color: white;
+  }
+  /* solid card with a hairline border and a soft lift */
+  .card {
+    @apply rounded-3xl bg-white;
+    border: 1px solid rgb(28 25 23 / 0.07);
+    box-shadow: 0 1px 2px rgb(28 25 23 / 0.04), 0 8px 24px -16px rgb(28 25 23 / 0.18);
+  }
+  /* light that follows the cursor (set --mx / --my from JS, see <Spotlight>) */
+  .spotlight { position: relative; isolation: isolate; }
+  .spotlight::before {
+    content: ""; position: absolute; inset: 0; border-radius: inherit; z-index: -1; pointer-events: none; opacity: 0;
+    background: radial-gradient(420px circle at var(--mx, 50%) var(--my, 50%), rgb(153 0 0 / 0.09), transparent 45%);
+    transition: opacity .3s;
+  }
+  .spotlight:hover::before { opacity: 1; }
+  .spotlight-border::after {
+    content: ""; position: absolute; inset: 0; border-radius: inherit; pointer-events: none; padding: 1px;
+    background: radial-gradient(260px circle at var(--mx, 50%) var(--my, 50%), rgb(153 0 0 / 0.5), transparent 60%);
+    -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite: xor; mask-composite: exclude;
+    opacity: 0; transition: opacity .3s;
+  }
+  .spotlight-border:hover::after { opacity: 1; }
+  /* primary call to action with a warm glow */
+  .btn-glow { box-shadow: 0 8px 24px -8px rgb(153 0 0 / 0.55), 0 0 0 1px rgb(255 255 255 / 0.08) inset; }
+  .btn-glow:hover { box-shadow: 0 10px 32px -6px rgb(153 0 0 / 0.7), 0 0 0 1px rgb(255 255 255 / 0.12) inset; }
+  /* loading placeholder */
+  .shimmer {
+    background: linear-gradient(90deg, rgb(231 229 228 / .7) 0%, rgb(245 245 244) 40%, rgb(231 229 228 / .7) 80%);
+    background-size: 200% 100%; animation: var(--animate-shimmer);
+  }
+  .num { font-family: var(--font-mono); font-variant-numeric: tabular-nums; letter-spacing: -0.02em; }
+  .eyebrow { @apply text-[11px] font-bold uppercase tracking-[0.14em] text-stone-400; }
+  .live-dot { position: relative; }
+  .live-dot::after { content: ""; position: absolute; inset: 0; border-radius: 9999px; background: inherit; animation: ts-pulse 1.6s ease-out infinite; }
+}
+
+@keyframes ts-shimmer { from { background-position: 200% 0 } to { background-position: -200% 0 } }
+@keyframes ts-aurora { 0% { transform: translate3d(0,0,0) scale(1) rotate(0deg) } 50% { transform: translate3d(6%, -4%, 0) scale(1.15) rotate(20deg) } 100% { transform: translate3d(-6%, 5%, 0) scale(0.95) rotate(-12deg) } }
+@keyframes ts-float { 0%, 100% { transform: translateY(0) } 50% { transform: translateY(-8px) } }
+@keyframes ts-pulse { 0% { transform: scale(1); opacity: .7 } 100% { transform: scale(2.4); opacity: 0 } }
+@keyframes ts-draw { from { stroke-dashoffset: var(--len, 4000) } to { stroke-dashoffset: 0 } }
+@keyframes ts-scan { 0% { transform: translateY(-100%) } 100% { transform: translateY(100%) } }
+.ts-pulse { animation: ts-pulse 1.6s ease-out infinite; }
+
+/* ---------- map ---------- */
+.ts-popup .leaflet-popup-content-wrapper { @apply rounded-3xl p-0; overflow: hidden; box-shadow: 0 24px 60px -20px rgb(28 25 23 / .45); }
+.ts-popup .leaflet-popup-content { margin: 0; width: 320px !important; }
+.ts-popup .leaflet-popup-close-button { @apply z-10 rounded-full bg-white/90 text-stone-700; top: 8px !important; right: 8px !important; width: 26px !important; height: 26px !important; line-height: 24px !important; }
+.leaflet-container { font-family: var(--font-sans); background: #e9e5df; }
+.leaflet-tooltip { @apply rounded-xl border-0 px-2.5 py-1.5 text-xs shadow-lg; font-family: var(--font-sans); }
+/* the safest route draws itself, with a soft glow */
+.route-safe { stroke-dasharray: 4000; animation: ts-draw 1.6s cubic-bezier(.6,.05,.3,1) forwards; filter: drop-shadow(0 0 6px rgb(5 150 105 / .55)); }
+.route-fast { filter: drop-shadow(0 0 4px rgb(37 99 235 / .45)); }
+.ts-tiles-invert { filter: invert(1) hue-rotate(180deg) brightness(.85) contrast(.9); }
+.map-night .leaflet-container { background: #1b1b1f; }
+.zone-glow { filter: drop-shadow(0 0 8px rgb(153 0 0 / .45)); }
+.map-night .zone-glow { filter: drop-shadow(0 0 10px rgb(255 90 90 / .7)); }
+
+/* safe-route / report pickers: clicks go to the map, not to markers or zones */
+.map-picking .leaflet-marker-icon, .map-picking .leaflet-interactive { pointer-events: none !important; }
+.map-picking .leaflet-container { cursor: crosshair; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; }
+  .route-safe { stroke-dasharray: none; }
+}

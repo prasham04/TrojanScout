@@ -1,0 +1,44 @@
+# --- Web / API ---
+fastapi
+uvicorn[standard]
+sse-starlette
+httpx                 # calls Node /internal/* tools
+pydantic
+pydantic-settings
+python-dotenv
+
+# --- Agent ---
+langgraph
+langchain
+langchain-core
+langchain-anthropic   # LLM providers: pick one with LLM_PROVIDER (app/llm.py)
+langchain-google-genai  # Gemini (free tier via Google AI Studio)
+langchain-groq
+langchain-ollama        # local models via Ollama (default)
+langsmith             # optional tracing
+
+# --- RAG / embeddings ---
+fastembed             # bge-small-en-v1.5 + MiniLM reranker on ONNX Runtime (no PyTorch)
+numpy
+
+# --- Database (Supabase Postgres + pgvector + PostGIS) ---
+psycopg[binary]
+pgvector
+supabase
+
+# --- Ingest (offline) ---
+praw                  # official Reddit API
+pandas
+geopy                 # Nominatim geocoding (cache results!)
+beautifulsoup4        # Daily Trojan article text
+tiktoken              # ~300-token chunking (token estimate only)
+
+# --- Dev ---
+pytest
+pytest-asyncio
+ruff
+
+# --- Listings retrieval (hybrid) ---
+faiss-cpu             # dense index
+bm25s                 # fast BM25 (sparse)
+PyStemmer             # stemming for bm25s

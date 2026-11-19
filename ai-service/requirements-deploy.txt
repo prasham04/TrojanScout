@@ -1,0 +1,18 @@
+# Production install for the hosted AI service (Render free: 512 MB RAM).
+# No PyTorch: embeddings + reranker run on ONNX Runtime via fastembed. No offline ingest tools.
+fastapi
+uvicorn[standard]
+sse-starlette
+httpx
+pydantic
+pydantic-settings
+python-dotenv
+langgraph
+langchain
+langchain-core
+langchain-groq
+fastembed
+numpy
+faiss-cpu
+bm25s
+PyStemmer

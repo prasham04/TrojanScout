@@ -1,0 +1,13 @@
+{
+  "listing": { "id": 1, "address": "SAMPLE", "rent": 1350, "beds": 1, "lat": 34.0275, "lng": -118.2830, "url": "https://example.com" },
+  "zones": { "inDps": true, "inFryft": false, "metersToFryftEdge": 120 },
+  "commute": [{ "building": "Viterbi (SAL)", "walk": 18, "bike": 7, "tram": 14 }],
+  "block": {
+    "summary": "Residents report frequent package thefts on this block [1]. ... [2]",
+    "incidents6mo": { "theft": 4, "burglary": 1 },
+    "citations": [{ "n": 1, "source": "r/USC", "date": "2026-03-02", "url": "https://example.com" }]
+  },
+  "cost": { "rent": 1350, "utilities": 90, "transit": 0, "rideshare": 64, "total": 1504,
+            "assumptions": ["3 late nights/week", "~$6.50 per ride"] },
+  "fitScore": 0.78
+}

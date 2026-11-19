@@ -1,0 +1,18 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.env
+!.env.example
+.DS_Store
+data/raw/*
+!data/raw/.gitkeep
+ai-service/.index/
+
+# runtime user data (accounts, reports)
+data/users.json
+data/reports.json
+ai-service/.models/

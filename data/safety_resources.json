@@ -1,0 +1,603 @@
+{
+ "note": "Police stations, emergency phones and clinics from OpenStreetMap (exact). Vending machine positions are approximate (from USC's description).",
+ "phones": {
+  "dpsEmergency": "213-740-4321",
+  "dpsNonEmergency": "213-740-6000",
+  "lapd": "911",
+  "lapdNonEmergency": "1-877-275-5273",
+  "dpsHscEmergency": "323-442-1000",
+  "dpsHscNonEmergency": "323-442-1200"
+ },
+ "resources": [
+  {
+   "type": "police",
+   "name": "Wilshire Community Police Station",
+   "operator": "Los Angeles Police Department",
+   "address": "",
+   "lat": 34.046667,
+   "lng": -118.342778,
+   "phone": "",
+   "precision": "exact",
+   "source": "OpenStreetMap"
+  },
+  {
+   "type": "police",
+   "name": "Rampart Community Police Station",
+   "operator": "Los Angeles Police Department",
+   "address": "",
+   "lat": 34.072778,
+   "lng": -118.276389,
+   "phone": "",
+   "precision": "exact",
+   "source": "OpenStreetMap"
+  },
+  {
+   "type": "police",
+   "name": "Hollenbeck Community Police Station",
+   "operator": "Los Angeles Police Department",
+   "address": "2111 East 1st Street",
+   "lat": 34.044854,
+   "lng": -118.212979,
+   "phone": "",
+   "precision": "exact",
+   "source": "OpenStreetMap"
+  },
+  {
+   "type": "police",
+   "name": "Newton Community Police Station",
+   "operator": "Los Angeles Police Department",
+   "address": "",
+   "lat": 34.012294,
+   "lng": -118.256123,
+   "phone": "",
+   "precision": "exact",
+   "source": "OpenStreetMap"
+  },
+  {
+   "type": "medical",
+   "name": "CVS Pharmacy",
+   "kind": "pharmacy",
+   "lat": 34.023485,
+   "lng": -118.279311,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "address": ""
+  },
+  {
+   "type": "blue_phone",
+   "name": "Emergency phone (blue light)",
+   "lat": 34.020729,
+   "lng": -118.287434,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "phone": "connects to DPS"
+  },
+  {
+   "type": "police",
+   "name": "California Highway Patrol",
+   "operator": "California Highway Patrol",
+   "address": "6300 Bristol Parkway",
+   "lat": 33.981096,
+   "lng": -118.391691,
+   "phone": "",
+   "precision": "exact",
+   "source": "OpenStreetMap"
+  },
+  {
+   "type": "police",
+   "name": "Police",
+   "operator": "",
+   "address": "",
+   "lat": 33.965469,
+   "lng": -118.181341,
+   "phone": "",
+   "precision": "exact",
+   "source": "OpenStreetMap"
+  },
+  {
+   "type": "police",
+   "name": "Beverly Hills Police",
+   "operator": "",
+   "address": "",
+   "lat": 34.073631,
+   "lng": -118.399979,
+   "phone": "",
+   "precision": "exact",
+   "source": "OpenStreetMap"
+  },
+  {
+   "type": "medical",
+   "name": "Orthopaedic Institute for Children",
+   "kind": "clinic",
+   "lat": 34.027697,
+   "lng": -118.273594,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "address": "403 West Adams Boulevard"
+  },
+  {
+   "type": "blue_phone",
+   "name": "Emergency phone (blue light)",
+   "lat": 34.025176,
+   "lng": -118.282442,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "phone": "connects to DPS"
+  },
+  {
+   "type": "blue_phone",
+   "name": "Emergency phone (blue light)",
+   "lat": 34.025598,
+   "lng": -118.281325,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "phone": "connects to DPS"
+  },
+  {
+   "type": "police",
+   "name": "City of Vernon Police Department",
+   "operator": "",
+   "address": "",
+   "lat": 34.004649,
+   "lng": -118.230568,
+   "phone": "",
+   "precision": "exact",
+   "source": "OpenStreetMap"
+  },
+  {
+   "type": "blue_phone",
+   "name": "Emergency phone (blue light)",
+   "lat": 34.021875,
+   "lng": -118.280973,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "phone": "connects to DPS"
+  },
+  {
+   "type": "blue_phone",
+   "name": "Emergency phone (blue light)",
+   "lat": 34.021454,
+   "lng": -118.279988,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "phone": "connects to DPS"
+  },
+  {
+   "type": "blue_phone",
+   "name": "Emergency phone (blue light)",
+   "lat": 34.021176,
+   "lng": -118.279037,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "phone": "connects to DPS"
+  },
+  {
+   "type": "medical",
+   "name": "Grand Specialty Pharmacy",
+   "kind": "pharmacy",
+   "lat": 34.036074,
+   "lng": -118.266411,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "address": "1513 South Grand Avenue"
+  },
+  {
+   "type": "police",
+   "name": "Los Angeles County Sheriff's Department",
+   "operator": "Los Angeles County Sheriff's Department",
+   "address": "211 West Temple Street",
+   "lat": 34.055912,
+   "lng": -118.242577,
+   "phone": "",
+   "precision": "exact",
+   "source": "OpenStreetMap"
+  },
+  {
+   "type": "police",
+   "name": "California Highway Patrol",
+   "operator": "California Highway Patrol",
+   "address": "777 W Washington Boulevard",
+   "lat": 34.037494,
+   "lng": -118.275163,
+   "phone": "+1 213 7442331",
+   "precision": "exact",
+   "source": "OpenStreetMap"
+  },
+  {
+   "type": "police",
+   "name": "Olympic Community Police Station",
+   "operator": "Los Angeles Police Department",
+   "address": "1130 Vermont Avenue",
+   "lat": 34.04978,
+   "lng": -118.29115,
+   "phone": "",
+   "precision": "exact",
+   "source": "OpenStreetMap"
+  },
+  {
+   "type": "police",
+   "name": "Hollywood Community Police Station",
+   "operator": "Los Angeles Police Department",
+   "address": "",
+   "lat": 34.095817,
+   "lng": -118.330654,
+   "phone": "",
+   "precision": "exact",
+   "source": "OpenStreetMap"
+  },
+  {
+   "type": "police",
+   "name": "Sheriff West Hollywood Station",
+   "operator": "Los Angeles County Sheriff's Department",
+   "address": "780 North San Vicente Boulevard",
+   "lat": 34.084403,
+   "lng": -118.38338,
+   "phone": "+1-310-855-8850",
+   "precision": "exact",
+   "source": "OpenStreetMap"
+  },
+  {
+   "type": "police",
+   "name": "Culver City Police Department",
+   "operator": "",
+   "address": "",
+   "lat": 34.020788,
+   "lng": -118.39515,
+   "phone": "",
+   "precision": "exact",
+   "source": "OpenStreetMap"
+  },
+  {
+   "type": "medical",
+   "name": "Engemann Student Health Center",
+   "kind": "clinic",
+   "lat": 34.025188,
+   "lng": -118.288911,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "address": "1031 West 34th Street"
+  },
+  {
+   "type": "medical",
+   "name": "H. Claude Hudson Comprehensive Health Center",
+   "kind": "clinic",
+   "lat": 34.024774,
+   "lng": -118.274074,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "address": "2829 South Grand Avenue"
+  },
+  {
+   "type": "police",
+   "name": "Southwest Community Police Station",
+   "operator": "Los Angeles Police Department",
+   "address": "",
+   "lat": 34.010494,
+   "lng": -118.305057,
+   "phone": "",
+   "precision": "exact",
+   "source": "OpenStreetMap"
+  },
+  {
+   "type": "police",
+   "name": "California Highway Patrol",
+   "operator": "California Highway Patrol",
+   "address": "",
+   "lat": 34.078654,
+   "lng": -118.292375,
+   "phone": "",
+   "precision": "exact",
+   "source": "OpenStreetMap"
+  },
+  {
+   "type": "police",
+   "name": "Los Angeles Police Department Headquarters",
+   "operator": "Los Angeles Police Department",
+   "address": "100 West 1st Street",
+   "lat": 34.05195,
+   "lng": -118.244373,
+   "phone": "",
+   "precision": "exact",
+   "source": "OpenStreetMap"
+  },
+  {
+   "type": "police",
+   "name": "Los Angeles Police Department Rampart Station",
+   "operator": "Los Angeles Police Department",
+   "address": "",
+   "lat": 34.056707,
+   "lng": -118.266993,
+   "phone": "",
+   "precision": "exact",
+   "source": "OpenStreetMap"
+  },
+  {
+   "type": "police",
+   "name": "Central Community Police Station",
+   "operator": "Los Angeles Police Department",
+   "address": "",
+   "lat": 34.044016,
+   "lng": -118.247295,
+   "phone": "",
+   "precision": "exact",
+   "source": "OpenStreetMap"
+  },
+  {
+   "type": "medical",
+   "name": "USC-Eisner Family Medicine Center at California Hospital",
+   "kind": "clinic",
+   "lat": 34.036737,
+   "lng": -118.265108,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "address": "1400 South Grand Avenue"
+  },
+  {
+   "type": "police",
+   "name": "South Gate Police Department",
+   "operator": "South Gate Police Department",
+   "address": "8620 California Avenue",
+   "lat": 33.95672,
+   "lng": -118.205031,
+   "phone": "",
+   "precision": "exact",
+   "source": "OpenStreetMap"
+  },
+  {
+   "type": "medical",
+   "name": "California Hospital Medical Center",
+   "kind": "hospital",
+   "lat": 34.037694,
+   "lng": -118.266002,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "address": "1401 South Grand Avenue"
+  },
+  {
+   "type": "medical",
+   "name": "St. John's Well Child and Family Center - Warner Traynham Clinic",
+   "kind": "clinic",
+   "lat": 34.029524,
+   "lng": -118.271955,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "address": "326 West 23rd Street"
+  },
+  {
+   "type": "police",
+   "name": "Inglewood Police Station",
+   "operator": "",
+   "address": "",
+   "lat": 33.963667,
+   "lng": -118.354343,
+   "phone": "",
+   "precision": "exact",
+   "source": "OpenStreetMap"
+  },
+  {
+   "type": "police",
+   "name": "77th Street Community Police Station",
+   "operator": "Los Angeles Police Department",
+   "address": "",
+   "lat": 33.97032,
+   "lng": -118.277914,
+   "phone": "",
+   "precision": "exact",
+   "source": "OpenStreetMap"
+  },
+  {
+   "type": "dps_station",
+   "name": "USC DPS Headquarters (24/7)",
+   "address": "3667 McClintock Ave",
+   "lat": 34.02104,
+   "lng": -118.29041,
+   "phone": "213-740-4321",
+   "precision": "exact",
+   "source": "USC DPS Campus Safety Plan 2026"
+  },
+  {
+   "type": "dps_station",
+   "name": "USC DPS Substation, USC Village",
+   "address": "USC Village",
+   "lat": 34.0256,
+   "lng": -118.2853,
+   "phone": "213-740-4321",
+   "precision": "approximate",
+   "source": "USC DPS Campus Safety Plan 2026"
+  },
+  {
+   "type": "vending",
+   "name": "Pharmacy vending machine, USC Village",
+   "detail": "In front of the elevators to the parking garages \u00b7 Narcan ($45 twin pack), emergency contraception ($5), condoms, cold medicine \u00b7 cards, Apple/Google Pay \u00b7 around the clock",
+   "lat": 34.0258,
+   "lng": -118.2862,
+   "precision": "approximate",
+   "source": "https://mann.usc.edu/news/pharmacy-product-vending-machines-return-to-the-usc-university-park-campus/"
+  },
+  {
+   "type": "vending",
+   "name": "Pharmacy vending machine, Royal Street Parking Structure",
+   "detail": "UPC \u00b7 same products \u00b7 status after Jan 2024 not confirmed",
+   "lat": 34.0189,
+   "lng": -118.2896,
+   "precision": "approximate",
+   "source": "https://mann.usc.edu/news/pharmacy-product-vending-machines-return-to-the-usc-university-park-campus/"
+  },
+  {
+   "type": "vending",
+   "name": "Pharmacy vending machine, Seaver Hall (HSC)",
+   "detail": "Health Sciences Campus \u00b7 same products",
+   "lat": 34.0619,
+   "lng": -118.2058,
+   "precision": "approximate",
+   "source": "https://mann.usc.edu/news/pharmacy-product-vending-machines-return-to-the-usc-university-park-campus/"
+  },
+  {
+   "type": "medical",
+   "name": "Engemann Student Health Center",
+   "detail": "Free Narcan & fentanyl test strips at the front desk",
+   "lat": 34.02528,
+   "lng": -118.28842,
+   "precision": "exact",
+   "source": "OpenStreetMap / USC Student Health"
+  },
+  {
+   "type": "police",
+   "name": "Los Angeles Regional Crime Lab",
+   "operator": "",
+   "address": "",
+   "phone": "",
+   "lat": 34.062056,
+   "lng": -118.173533,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "campus": "HSC"
+  },
+  {
+   "type": "medical",
+   "name": "USC Roski Eye Institute",
+   "kind": "clinic",
+   "address": "1450 San Pablo Street",
+   "lat": 34.061741,
+   "lng": -118.202409,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "campus": "HSC"
+  },
+  {
+   "type": "police",
+   "name": "FSB Warehouse",
+   "operator": "",
+   "address": "",
+   "phone": "",
+   "lat": 34.055894,
+   "lng": -118.168435,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "campus": "HSC"
+  },
+  {
+   "type": "medical",
+   "name": "Los Angeles General Medical Center",
+   "kind": "hospital",
+   "address": "2051 Marengo Street",
+   "lat": 34.059376,
+   "lng": -118.209667,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "campus": "HSC"
+  },
+  {
+   "type": "medical",
+   "name": "White Memorial Medical Center",
+   "kind": "hospital",
+   "address": "1720 East Cesar E Chavez Avenue",
+   "lat": 34.049682,
+   "lng": -118.21724,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "campus": "HSC"
+  },
+  {
+   "type": "police",
+   "name": "East Los Angeles County Sheriff's Patrol Station",
+   "operator": "Los Angeles County Sheriff's Department",
+   "address": "5019 East 3rd Street",
+   "phone": "+1-323-264-4151",
+   "lat": 34.034385,
+   "lng": -118.157782,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "campus": "HSC"
+  },
+  {
+   "type": "medical",
+   "name": "LA-USC Health Care Consultation Center II",
+   "kind": "clinic",
+   "address": "",
+   "lat": 34.062579,
+   "lng": -118.202685,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "campus": "HSC"
+  },
+  {
+   "type": "medical",
+   "name": "Outpatient Clinic",
+   "kind": "clinic",
+   "address": "",
+   "lat": 34.058533,
+   "lng": -118.206894,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "campus": "HSC"
+  },
+  {
+   "type": "medical",
+   "name": "USC Norris Cancer Hospital",
+   "kind": "hospital",
+   "address": "1441 Eastlake Avenue",
+   "lat": 34.061431,
+   "lng": -118.205122,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "campus": "HSC"
+  },
+  {
+   "type": "medical",
+   "name": "USC Kidney Center",
+   "kind": "clinic",
+   "address": "",
+   "lat": 34.062295,
+   "lng": -118.198897,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "campus": "HSC"
+  },
+  {
+   "type": "medical",
+   "name": "Rand Shrader Clinic (C)",
+   "kind": "clinic",
+   "address": "",
+   "lat": 34.062694,
+   "lng": -118.210688,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "campus": "HSC"
+  },
+  {
+   "type": "police",
+   "name": "Sherman Block Sheriff's Headquarters Building",
+   "operator": "",
+   "address": "4700 Ramona Boulevard",
+   "phone": "",
+   "lat": 34.059606,
+   "lng": -118.168307,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "campus": "HSC"
+  },
+  {
+   "type": "medical",
+   "name": "Keck Hospital of USC",
+   "kind": "hospital",
+   "address": "1500 San Pablo Street",
+   "lat": 34.062221,
+   "lng": -118.201955,
+   "precision": "exact",
+   "source": "OpenStreetMap",
+   "campus": "HSC"
+  },
+  {
+   "type": "dps_station",
+   "name": "USC DPS Health Sciences Campus station (24/7)",
+   "address": "2001 N Soto St",
+   "lat": 34.06178,
+   "lng": -118.19934,
+   "phone": "323-442-1000",
+   "precision": "approximate",
+   "source": "https://dps.usc.edu/contact/ (address); position approximate",
+   "campus": "HSC"
+  }
+ ]
+}

@@ -1,0 +1,172 @@
+[
+ {
+  "id": 1,
+  "name": "Viterbi (SAL)",
+  "code": "SAL",
+  "lat": 34.0195,
+  "lng": -118.2895,
+  "campus": "UPC"
+ },
+ {
+  "id": 2,
+  "name": "Viterbi (RTH)",
+  "code": "RTH",
+  "lat": 34.0201,
+  "lng": -118.2899,
+  "campus": "UPC"
+ },
+ {
+  "id": 3,
+  "name": "Marshall (JKP)",
+  "code": "JKP",
+  "lat": 34.0189,
+  "lng": -118.2856,
+  "campus": "UPC"
+ },
+ {
+  "id": 4,
+  "name": "Leavey Library",
+  "code": "LVL",
+  "lat": 34.0216,
+  "lng": -118.2829,
+  "campus": "UPC"
+ },
+ {
+  "id": 5,
+  "name": "Doheny Library",
+  "code": "DML",
+  "lat": 34.0201,
+  "lng": -118.2837,
+  "campus": "UPC"
+ },
+ {
+  "id": 6,
+  "name": "Von KleinSmid Center",
+  "code": "VKC",
+  "lat": 34.0213,
+  "lng": -118.284,
+  "campus": "UPC"
+ },
+ {
+  "id": 7,
+  "name": "Annenberg (ANN)",
+  "code": "ANN",
+  "lat": 34.0226,
+  "lng": -118.2864,
+  "campus": "UPC"
+ },
+ {
+  "id": 8,
+  "name": "Lyon Center",
+  "code": "PED",
+  "lat": 34.0242,
+  "lng": -118.2884,
+  "campus": "UPC"
+ },
+ {
+  "id": 9,
+  "name": "Tommy Trojan",
+  "code": "TT",
+  "lat": 34.0206,
+  "lng": -118.2854,
+  "campus": "UPC"
+ },
+ {
+  "id": 10,
+  "name": "USC Village",
+  "code": "VIL",
+  "lat": 34.0256,
+  "lng": -118.2856,
+  "campus": "UPC"
+ },
+ {
+  "id": 11,
+  "name": "Keck Hospital of USC",
+  "code": "KH",
+  "lat": 34.062221,
+  "lng": -118.201955,
+  "campus": "HSC",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": 12,
+  "name": "USC Norris Cancer Hospital",
+  "code": "NOR",
+  "lat": 34.061431,
+  "lng": -118.205122,
+  "campus": "HSC",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": 13,
+  "name": "Keith Administration (KAM)",
+  "code": "KAM",
+  "lat": 34.061102,
+  "lng": -118.205603,
+  "campus": "HSC",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": 14,
+  "name": "Norris Medical Library",
+  "code": "NML",
+  "lat": 34.060924,
+  "lng": -118.204886,
+  "campus": "HSC",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": 15,
+  "name": "Stauffer Pharmaceutical Sciences (PSC)",
+  "code": "PSC",
+  "lat": 34.060383,
+  "lng": -118.20595,
+  "campus": "HSC",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": 16,
+  "name": "Bishop Medical Teaching (BMT)",
+  "code": "BMT",
+  "lat": 34.060296,
+  "lng": -118.204544,
+  "campus": "HSC",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": 17,
+  "name": "Hoffman Medical Research (HMR)",
+  "code": "HMR",
+  "lat": 34.060097,
+  "lng": -118.205298,
+  "campus": "HSC",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": 18,
+  "name": "Zilkha Neurogenetic Institute",
+  "code": "ZNI",
+  "lat": 34.062429,
+  "lng": -118.203724,
+  "campus": "HSC",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": 19,
+  "name": "Clinical Sciences (CSC)",
+  "code": "CSC",
+  "lat": 34.062707,
+  "lng": -118.200009,
+  "campus": "HSC",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": 20,
+  "name": "LA General (LAC+USC) Medical Center",
+  "code": "LAG",
+  "lat": 34.059376,
+  "lng": -118.209667,
+  "campus": "HSC",
+  "source": "OpenStreetMap"
+ }
+]

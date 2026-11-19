@@ -1,0 +1,255 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "usc_lyft_upc",
+    "label": "USC Lyft Rides boundary (UPC)",
+    "source": "transnet.usc.edu/how-to-use-lyft: east of Normandie Ave, south of Washington Blvd, west of Main St, north of MLK Jr Blvd. Corners from OSM street intersections.",
+    "last_verified": "2026-11-14"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.3006,
+       34.03997
+      ],
+      [
+       -118.26465,
+       34.03106
+      ],
+      [
+       -118.27403,
+       34.01113
+      ],
+      [
+       -118.30019,
+       34.01086
+      ],
+      [
+       -118.3006,
+       34.03997
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "usc_lyft_hsc",
+    "label": "USC Lyft Rides boundary (HSC)",
+    "source": "Traced from USC Transportation's official 'HSC Lyft Boundaries' map, georeferenced to OpenStreetMap intersections (Marengo/State, Marengo/Soto, Alcazar/Soto, Zonal/State; fit error 10-26 m). Union Station is covered separately; City View Terrace is covered but not drawn.",
+    "last_verified": "2026-11-15",
+    "precision": "traced (\u00b150 m)"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.211392,
+       34.063459
+      ],
+      [
+       -118.206807,
+       34.064376
+      ],
+      [
+       -118.201705,
+       34.064956
+      ],
+      [
+       -118.197825,
+       34.064404
+      ],
+      [
+       -118.196844,
+       34.067007
+      ],
+      [
+       -118.195147,
+       34.066666
+      ],
+      [
+       -118.195388,
+       34.065865
+      ],
+      [
+       -118.192814,
+       34.065319
+      ],
+      [
+       -118.192947,
+       34.062847
+      ],
+      [
+       -118.196892,
+       34.063532
+      ],
+      [
+       -118.202936,
+       34.054695
+      ],
+      [
+       -118.207842,
+       34.056734
+      ],
+      [
+       -118.208893,
+       34.055723
+      ],
+      [
+       -118.20972,
+       34.0561
+      ],
+      [
+       -118.209053,
+       34.057207
+      ],
+      [
+       -118.212522,
+       34.058679
+      ],
+      [
+       -118.213065,
+       34.058761
+      ],
+      [
+       -118.213703,
+       34.060194
+      ],
+      [
+       -118.211581,
+       34.061656
+      ],
+      [
+       -118.211392,
+       34.063459
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "usc_lyft_union_station",
+    "label": "USC Lyft Rides: Union Station (HSC program)",
+    "source": "USC's HSC Lyft map notes Union Station is included (not drawn on the map). 250 m around the station.",
+    "precision": "approximate",
+    "last_verified": "2026-11-15"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.233791,
+       34.0562
+      ],
+      [
+       -118.233884,
+       34.056783
+      ],
+      [
+       -118.234154,
+       34.057326
+      ],
+      [
+       -118.234585,
+       34.057793
+      ],
+      [
+       -118.235146,
+       34.058151
+      ],
+      [
+       -118.235799,
+       34.058376
+      ],
+      [
+       -118.2365,
+       34.058452
+      ],
+      [
+       -118.237201,
+       34.058376
+      ],
+      [
+       -118.237854,
+       34.058151
+      ],
+      [
+       -118.238415,
+       34.057793
+      ],
+      [
+       -118.238846,
+       34.057326
+      ],
+      [
+       -118.239116,
+       34.056783
+      ],
+      [
+       -118.239209,
+       34.0562
+      ],
+      [
+       -118.239116,
+       34.055617
+      ],
+      [
+       -118.238846,
+       34.055074
+      ],
+      [
+       -118.238415,
+       34.054607
+      ],
+      [
+       -118.237854,
+       34.054249
+      ],
+      [
+       -118.237201,
+       34.054024
+      ],
+      [
+       -118.2365,
+       34.053948
+      ],
+      [
+       -118.235799,
+       34.054024
+      ],
+      [
+       -118.235146,
+       34.054249
+      ],
+      [
+       -118.234585,
+       34.054607
+      ],
+      [
+       -118.234154,
+       34.055074
+      ],
+      [
+       -118.233884,
+       34.055617
+      ],
+      [
+       -118.233791,
+       34.0562
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}
